@@ -1,0 +1,2008 @@
+question,answer
+"A 123 Robot name that appears green in the Classroom App indicates that ___.
+
+","The firmware is up to date
+"
+"A 123 Robot name that appears red in the Classroom App indicates that ___.
+
+","The firmware is out of date and needs to be updated
+"
+"A larger gear driving a smaller gear ______.","increases speed"
+"A programming language is a spoken language used to communicate with the GO robot.
+
+",False
+"A programming language is a ______.
+","set of rules in which symbols represent actions"
+"A robot is defined as a ______.","device that can sense, think, and act"
+"A Robot Skills match ______.
+","includes one team and one robot"
+"A sensor__________________________________________________________.","Allows the robot to take in information from its environment"
+"A set of rules in which symbols represent actions is known as a __________________, and those robot actions are ___________________.","Programming language; behavior
+"
+"A smaller gear driving a larger gear ______.","increases torque"
+"A student describing how they coded their robot to complete a challenge is an example of:
+","Using spatial language
+"
+"A team of students is very frustrated that the pressing of the Bumper Switch seems to have no effect on the robot’s behavior. The teacher can see that the project has a few bugs or errors but only encourages them to decompose their project again to see where the bug(s) is. Which recommendation is this teacher following?
+","Guide, don’t give"
+"A user can change the behavior of a robot by changing the commands.
+
+",True
+"A VEX EXP Distance Sensor can be used to ______.
+"," determine how far away an object is"
+"A way of documenting the steps of a coding project in simple language is called ______.",Pseudocode
+"A ______ is a non-qualifying VIQC event that provides a fun opportunity for students to test their robot designs.
+",Scrimmage
+"A ______ is a set of rules in which symbols represent actions.
+","Programming language"
+"A ______ is a specific action performed by a robot.
+",behavior
+"A ______ is an action that the robot performs based on the instructions it receives from code.",Behavior
+"A ______, shown here, is used to allow a shaft to turn more smoothly.
+","Low profile bearing flat"
+"A(n) __________ is the point at which the linkages in a system should move no further to avoid strain or potential damage.
+
+","mechanical limit"
+"After teams head to their assigned field for a VIQC match, what should they do next?
+","Place the robots in legal starting positions"
+"Alaina is trying to detect blue Buckyballs using the Optical Sensor, but the sensor is not reading them as blue. What can Alaina change in this VEXcode EXP project to make it more accurate and repeatable?","Use a range of hue values rather than the <Detects color> block"
+"All VEX 123 STEM Lab Units are organized around _______________ and _____________.
+","Essential Questions and Unit Understandings
+
+"
+"Animations in STEM Labs provide ______.","a clear picture of the activity's goal for students and teachers"
+"Anyone can teach computer science with VEX 123.
+",True
+"At competitions, it’s okay for an adult to fix a broken robot with no students actively participating.
+",False
+"At VIQC tournaments, it’s okay for an adult to fix a broken robot with no students actively participating.
+",False
+"Based on the starting position of the 123 Robot in this image, pressing the Move button 3 times and starting the project would solve which of the following equations?
+","3+3 = 6
+"
+"Based on the starting position of the 123 Robot in this image, the sequence shown would drive the robot to which position along the parade route?
+",2
+"Based on the starting position of the 123 Robot in this image, the sequence shown would drive the robot to which position?
+",4
+"Based on this block,  on what axis and in which direction will the Workcell move from the start coordinate of (8, 0, 2)?
+","The negative y-axis"
+"Based on this block, how will the arm of the Workcell move from the start coordinate of (8, 0, 2)?
+","In a straight line with x-values increasing."
+"Based on this code snippet, how will the arm of the Workcell move from the start coordinate of (8, 0, 2)?
+","In an 'L' shape with x-values and y-values increasing."
+"Based on this code snippet, what x, y, and z coordinates will the arm on the Workcell move to?
+","(10, -2, 2)"
+"Based on this image from the build instructions, which piece(s) will be used in this step?","One 2x8 Beam"
+"Based on this image from the build instructions, which pieces will be used in this step?","3 Orange Standoffs"
+"Based on this image from the Frog Life Cycle build instructions, which slide in the build instructions should you start at to begin building the Tadpole with Legs adaptation?","Slide 12"
+"Based on this image, how far away is the tool plate of the arm from the (0, 0, 0) point on the Workcell on the x-axis?
+","About 10 inches"
+"Based on this image, how many [If then] blocks would you need in your project to sort all the disks in the pick up location?
+","Three, one for each of the colored disks (red, blue, and green)."
+"Based on this image, how will a disk travel through the conveyors?
+","The disk will start on the entry conveyor and travel on the transport conveyor."
+"Based on this image, moving the arm along the ruler will affect what axis?
+","The x-axis"
+"Based on this image, the [Spin to position] block for the diverter is set to approximately what degrees?
+","Approximately 90 degrees."
+"Based on this image, which of the conveyors on the Workcell are being coded to spin?
+","The entry conveyor."
+"Based on this output from the Devices screen, what is the approximate arm motor position in degrees?",450
+"Based on this output, what color disk does the Optical Sensor detect?
+",Red
+"Based on this VEXcode EXP project, what will happen when the Bumper Switch is pressed?
+","The robot will turn right for 90 degrees"
+"Based on this VEXcode EXP project, what will happen when the Distance Sensor is less than 50 millimeters away from an object?
+","The robot will drive in reverse for 200 millimeters"
+"Based on this VEXcode EXP project, what will happen when the Optical Sensor detects an object?
+","The robot will turn right 90 degrees"
+"Because the IQ 1st generation Distance Sensor uses sound waves to detect objects at a distance, the shape of the detectable area from the sensor can be described as _____________.
+","A triangle that is narrow at the sensor, and widens further from the sensor
+
+"
+"Because the IQ 2nd generation Distance Sensor uses laser light pulses to detect objects at a distance, the shape of the detectable area from the sensor can be described as _____________.","A tunnel directly in front of the sensor
+
+"
+"Before starting When are the Workcell Extensions designed to be completed?
+the STEM Labs","After the first 12 STEM Labs"
+"By learning about computer science, young students are better able to explore the ______.
+","high-tech world around them"
+"Changing a command will change a robot’s ______.
+",behavior
+"Commands can be added to a project in VEXcode VR Python by _____ or _____","dragging and dropping from the Toolbox; typing in the Workspace"
+"Conditions in a VEXcode IQ project ______.","always report a TRUE or FALSE value"
+"Data from the Device information screen can be used to ______________________.
+","Radio Gather details about devices connected to the V5 Brain
+"
+"Describe how the VR Robot is using the Down Eye Sensor in this project.
+","To identify when the VR Robot is above a blue disk"
+"Describe how the VR Robot will move in this project.
+","The VR Robot will set the pen down, then drive forward for 200 mm and turn right for 90 degrees; and repeat this 4 times in order to draw a square"
+"Describe why a [Forever] block is used in this project.
+","To continously check if the VR Robot is near an object with detectable colors"
+"Each Unit of the VEX V5 Workcell Educator Certification is designed to accompany which resource?
+","The Workcell Extensions or one STEM Lab"
+"Engineering notebooks can be used for the following:
+","All of the above"
+"Having adults involved in guided play often helps children to ________________________.","Be comfortable stretching or stepping outside their comfort zone to try something new and make the most of a learning experience."
+"Holding up or passing around a Coder and Coder cards enables students and teachers to easily ______.
+","share and discuss their coding projects"
+"How are alliances formed for VIQC Qualification matches?
+","They are randomly assigned"
+"How are comments used in this project?
+","To describe how the VR Robot will move to the number "23" on the Numbered Grid Map Playground"
+"How are shafts used in the VEX IQ system?","Shafts provide connections between motors and parts/assemblies that can be spun or rotated"
+"How are the values of colors chosen with the [Set pen color] block?","Sliders for Red, Blue, Green, and Opacity values"
+"How can a Bumper Switch be used on a VEX EXP robot?
+","To cause a behavior when it is pressed or released"
+"How can I add comments to a project?
+","Drag the [Comment] block from the Tool Box into the Workspace and attach it to any block in a stack"
+"How can physical robots help when teaching Computer Science to young students?
+","Robots are motivating and engaging to students"
+"How can teaching with VEX 123 and GO help foster persistence in the classroom?","VEX123 and GO STEM Labs and Activities are built around authentic and complex problems that can be solved in multiple ways."
+"How can the Cumulative Pacing Guide be used?
+","To plan a customized scope and sequence using Workcell curricular resources"
+"How can the following example be simplified by using a [Repeat] block?
+","By placing the [Drive for] and [Turn for] blocks in a [Repeat] block that repeats four times"
+"How can the specific X and Y coordinate location of the VR Robot be found?","In the Dashboard of the Playground"
+"How can the [Print] block help while troubleshooting? Select the best answer.
+","By displaying what is happening as a VEXcode EXP project runs"
+"How can the [Print] block help while troubleshooting? Select the best answer.","All of the above"
+"How can using VEX 123 STEM Labs in your classroom support the teaching of responsible decision making?","By encouraging iterative problem solving that allows students to learn from their mistakes"
+"How can VEXcode VR help teachers and students in an educational setting?
+","VEXcode VR allows students to learn computer science concepts from anywhere without needing a physical robot."
+"How can you access VEXcode 123 on a Windows computer?
+","Use the VEX 123 web-based version in your Chrome Browser"
+"How can you access VEXcode 123 on an Android Tablet?
+","Download the VEXcode 123 app from the app store"
+"How can you access VEXcode 123 on an iPad? Select the best answer.
+","Download the VEXcode 123 app from the app store"
+"How can you delete a block in VEXcode IQ? Select the best answer.
+","Select the block and drag it to the left out of the Workspace"
+"How can you delete blocks in your VEXcode 123 project?
+","Separate the blocks from your project, and drag them back to the Toolbox on the left"
+"How can you display the Help for the [Drive for] block?
+","Select the Help icon, then select the [Drive for] block"
+"How can you find the name & part number of most parts used in a set of VEX IQ 3D build instructions?","Click on a part and read the text in the resulting callout box"
+"How can you find the name and part number of most parts used in a set of VEX EXP 3D build instructions?","Click on a part and read the text in the resulting callout box"
+"How can you find the name and part number of most parts used in a set of VEX V5 3D build instructions?","Click on a part and read the text in the resulting callout box"
+"How can you find the VEXcode VR Help Window?
+","Select the question mark at the top right corner of the interface."
+"How can you log into a VEXcode VR subscription using a Class Code?","Using a Direct Link, via the Splash Screen in VEXcode VR, or in the File Menu in VEXcode VR."
+"How can you make the VR Robot move in reverse on the [Drive for] block?
+","Changing the "forward" parameter to "reverse"."
+"How can you save a VEXcode IQ project? Select the best answer.
+","All of the above"
+"How can you tell the difference between the Distance Sensor and Optical Sensor in the VEX EXP Kit?","The Optical Sensor has an eye icon on the side while the Distance Sensor has an arrow icon"
+"How can you tell the difference between the Distance Sensor and Optical Sensor in the VEX IQ (2nd generation) Kit?","The Optical Sensor has an eye icon on the side while the Distance Sensor has an arrow icon"
+"How could you use the Bumper Sensor in the Wall Maze challenge?
+","To instruct the VR Robot to turn when it bumps into a wall."
+"How do the coordinate values change as the VR Robot continues moving forward in this project on the Numbered Grid Map Playground?
+","The X coordinate increases, the Y coordinate stays the same"
+"How do you "duplicate" a block?
+","Right click (or command click) on the block and select "duplicate"."
+"How do you "redo" an action in VEXcode VR?
+","Right click (or command click) on the workspace and select "redo"."
+"How do you "undo" an action in VEXvode VR?
+","Right click (or command click) on the workspace and select "undo"."
+"How do you access Offline VEXcode VR?","Download Offline VEXcode VR then log in using a valid Class Code."
+"How do you access sample projects in VEXcode EXP?
+","Open the File menu and select 'Open Examples'"
+"How do you access sample projects in VEXcode IQ?
+","Open the File menu and select 'Open Examples'"
+"How do you add blocks to a project in VEXcode 123?","Drag blocks from the Toolbox on the left and add them to your project"
+"How do you assign a driver configuration to the Controller in VEXcode V5? 
+","Select the Joysticks of the Controller in the Devices window
+"
+"How do you change a [Drive for] block from waiting to non-waiting?
+","Select the arrow on the block to expand “and don’t wait”."
+"How do you change the behavior of a GO robot? Select the best answer.
+","All of the above"
+"How do you change the behavior of the VR Robot?
+","Change the programming blocks called commands."
+"How do you connect the 123 Robot to VEXcode 123 on your device?","Select Robot in the Toolbar, then select Connect"
+"How do you connect the 123 Robot to your device in VEXcode 123?
+","Select the Robot button in the Toolbar, then select Connect"
+"How do you delete a block in VEXcode EXP?
+","Select the block and drag it to the left, out of the Workspace"
+"How do you delete blocks from a project?
+","Take blocks off of the project stack and drag them into the Toolbox"
+"How do you install batteries in the Coder?
+","Open the battery door with a small screwdriver, insert 2 AAA batteries, replace the battery door"
+"How do you load a project in web-based VEXcode EXP?","Select ‘File’ then ‘Load from Your Device’"
+"How do you load a project in web-based VEXcode IQ?","Select ‘File’ then ‘Save As’"
+"How do you make the Code Base move in reverse using a Drive block?
+","Change the 'forward' parameter to 'reverse'"
+"How do you make the size of block(s) bigger?
+","Use the (+) icon in the bottom right side of the programming area."
+"How do you move a block in the Workspace?
+","Select the block and drag"
+"How do you move a block in the Workspace?","Select the block and drag"
+"How do you move blocks in the VEXcode GO Workspace?
+","Select and drag the block"
+"How do you open a project in app-based VEXcode EXP?","Select ‘File’ then ‘Open’"
+"How do you open a project in app-based VEXcode IQ?","Select ‘File’ then ‘Open’"
+"How do you open an example project in VEXcode GO?
+","Select 'File' and 'Open Examples'"
+"How do you open an example project in VEXcode VR?
+","Select "File" and "Open Examples""
+"How do you pair the Coder with the 123 Robot?
+","Press the Left and Right buttons on the 123 Robot and the Start and Stop buttons on the Coder"
+"How do you pick the marker up off of the whiteboard on the Workcell?
+","Add a coordinate point with a higher z-coordinate value."
+"How do you save a project in VEXcode VR?
+","Open the File menu and select “Save To Your Device”."
+"How do you save a project in web-based VEXcode EXP?","Select ‘File’ then ‘Save to Your Device’"
+"How do you save a project in web-based VEXcode IQ?","Select ‘File’ then ‘Save to Your Device’"
+"How do you start a project in VEXcode 123?
+","Select Start in the Toolbar"
+"How do you start the Driver Control program on the Brain?
+","Select "Drive" then "Run" on the Brain"
+"How does the 123 Robot carry out the commands from a Coder card project?
+","From top to bottom in sequence"
+"How does the Choice Board facilitate differentiated instruction?
+","By allowing students to choose their own activities to complete"
+"How does the Eye Sensor distinguish between light and dark objects or surfaces?
+","By reporting the brightness level of an object or surface."
+"How does the highlighting function help to visualize waiting vs. non-waiting blocks?
+","It highlights each block as it is being executed in a VEXcode VR project."
+"How does the VEXcode IQ [Wait until] block work?","It will not move to the next block until the Boolean condition reports TRUE"
+"How does the Y coordinate value change as the VR Robot moves forward in this project on the Grid Map Playground?
+","It increases as the VR Robot drives forward"
+"How does the [If then] block function in a VEXcode EXP project?
+
+","It runs the blocks inside of it if the Boolean condition reports TRUE"
+"How does the [If then] block function in a VEXcode IQ project?","It runs the blocks inside of it when its Boolean condition reports TRUE"
+"How does the [Wait until] block work?
+
+","It will only move to the next block when the condition of the Boolean reports TRUE"
+"How far forward will the robot drive in this example?
+","400 millimeters (mm)"
+"How far forward will the robot drive in this project?
+","400 millimeters (mm)"
+"How far will the VR Robot move based off of this command?
+","300 millimeters (mm)"
+"How is a team assigned alliance partners for VIQC Qualifying Matches?
+","Alliance partners are randomly assigned"
+"How is a team assigned an Alliance partner during Qualifying Matches?
+","Alliance partners are randomly assigned for Qualifying Matches"
+"How is the <Pressing bumper> block used in this project?
+","It checks the condition of the Bumper Sensor. When TRUE, the VR Robot will turn right 180 degrees."
+"How is the Inertial Sensor used in VEXcode EXP projects?
+","With Drivetrain blocks to maintain straight driving and make accurate turns"
+"How is the Inertial Sensor used in VEXcode IQ projects?
+","The Inertial Sensor is used with Drivetrain blocks to maintain straight driving and accurate turns"
+"How is the [Wait until] block used with the <Pressing bumper> block?
+","The <Pressing bumper> Boolean is placed in the hexagonal shape inside the [Wait until] block."
+"How many degrees will the arm motor spin up in this project??","260 degrees"
+"How many degrees will the arm spin up in this project?
+","260 degrees"
+"How many degrees will the robot turn in this project?
+","180 degrees to the left"
+"How many Eye Sensors are on the VR Robot?
+",Two
+"How many millimeters does the robot drive forward in total?
+
+Notice that loop nested inside has the drive for block repeat four times and the outer loop has the drive for and repeat blocks repeat twice.
+",900mm
+"How many millimeters does the robot drive forward?
+",700mm
+"How many rows and columns are needed in a 2D list to store seven coordinate points?
+","7 rows and 3 columns"
+"How many rows does this 2D list have?
+",8
+"How many times does the [Repeat] block execute in this project?",3
+"How many times will the robot repeat the [Drive for] and [Turn for] blocks in this project?
+",4
+"How many times will the robot repeat the [Drive for] and [Turn for] blocks in this project?",4
+"How many times will the [Repeat] block loop in this code snippet?
+","4 times"
+"How many times will the [Repeat] block repeat the [Turn for] and [Drive for] blocks inside of it?
+","Two times"
+"How often will the [Wait until] block check a Boolean condition?
+","It will check repeatedly until the Boolean reports TRUE"
+"How often will the [Wait until] block check a Boolean condition?","It will check repeatedly until the Boolean reports TRUE"
+"How will the Code Base move based on this command?
+","Forward for 300 mm"
+"How will the robot behave once the Bumper Switch has been pressed according to this project?","It will drive forward for 300 millimeters (mm)"
+"How will the robot behave when the Bumper Switch is pressed in this example?
+
+
+","The robot will stop driving"
+"How will the robot behave when the Bumper Switch is pressed in this example?","The robot will stop driving"
+"How will the Touch LED behave when this project is run?
+","The Touch LED will flash green as the robot drives forward, then blue while the robot turns"
+"How will the VR Robot move based off of this command?
+","Turn right 80 degrees."
+"Ian attached his Eye Sensor to the VEX GO Brain after the brain was already powered on. The Eye Sensor is not reporting values correctly. Which troubleshooting technique would most likely solve his problem?
+","Power cycling the Brain"
+"If a device is not working properly, what resources are available to help troubleshoot the issue?
+","VEX Library articles and tutorial videos"
+"If a Smart Motor is connected properly and it is still not responding, what else could potentially be wrong?
+","The configuration."
+"If a student asks you to review their project for the V5 Clawbot arm, what should you suggest?
+","Add a timeout block at the start to protect the arm motor."
+"If a student runs into a problem, what is the best series of steps to diagnose and resolve it?
+","Make a list of all possible reasons for the errors, test each possibility, search the VEX Library articles for the issue. "
+"If completing this investigation with students, which of the following discussion prompts would NOT be helpful to reinforce the learning they did in the lesson?","How many Red Pins were used in this build? Was that more or less than you expected?"
+"If the 123 Robot is not plugged in to charge, but the indicator light in the center of the Robot is flashing red, this means __________________________________________.
+","The robot’s battery is low and needs to be charged.
+"
+"If the 123 Robot is plugged in to charge and the indicator light in the center of the Robot is flashing green, ___.","The 123 Robot is fully charged"
+"If the 123 Robot is plugged in to charge and the indicator light in the center of the Robot is flashing red, ___.","The 123 Robot is charging"
+"If the controller is not communicating with the brain, which of the following steps could be taken to begin troubleshooting?
+","Ensure that it is properly paired."
+"If the V5 Robot is not powering on, which option is not possible to test to troubleshoot this issue?
+","Power cycle the brain."
+"If you charge a VEX GO battery for one hour, how long will the charge last?","Approximately one school day"
+"In a simple VEXcode EXP project, such as driving in a square using only [Drive for] and [Turn for] blocks, each ______ corresponds to a single behavior.",Block
+"In a simple VEXcode IQ project, such as driving in a square using only [Drive for] and [Turn for] blocks, each ______ corresponds to a single behavior.",Block
+"In a simple VEXcode V5 project, such as avoiding an obstacle using only [Drive for] and [Turn for] blocks, each ______ corresponds to a single behavior.",Block
+"In order to use the V5 Controller wirelessly with the robot, which of the following likely needs to happen?
+","All of these need to be true in order to use the controller wirelessly."
+"In STEM Labs, the acronym SPARK stands for:
+","Seek, Play, Apply, Rethink, Know"
+"In the image above, the parts shown from left to right are:","Battery, Switch and Motor"
+"In the image above, what does the line marked with a green arrow indicate?","Where the parts shown should be connected to each other"
+"In the image above, what does the symbol circled in green indicate?","The number of times the step should be completed"
+"In the image above, which of the following is true about the part indicated by the red arrow?","It is called Shaft Collar, and it is used to keep the wheel firmly attached to the shaft."
+"In the Play section of a VEX GO STEM Lab, you will find ____________.","step-by-step instructions on how to implement the lesson"
+"In the Share section of a VEX GO STEM Lab, you will find_______________.","discussion prompts that you can use in a discussion about the activities and concepts of the STEM Lab"
+"In the step above, what is one way you could check to be sure the green plate is correctly attached to the black plate?","Count the number of holes between the Yellow Angle Beam and the Green Plate."
+"In this example project, what does the set timeout block do in relation to the robot arm?
+","The robot will drive forward once the arm has raised 400 degrees or reached the timeout limit of 3 seconds."
+"In this example, the team that wins the ________ would qualify for VEX Worlds. Select the best answer.
+","All of the above"
+"In this example, why does the greenAccepted Boolean variable need to be set to ‘false’ after the first green disk has been accepted?
+","To ensure that any additional green disks are rejected and diverted off of the exit conveyor."
+"In this project, how many times will the [Drive for] block be repeated?
+","It will be repeated forever"
+"In this project, how many times will the [Drive for] block be repeated?",Forever
+"In this project, if the condition of the Down Eye detecting red is TRUE, how will the VR Robot move?
+","It will turn right for 115 degrees"
+"In this project, Jenny wanted to drive forward and then in reverse to the location she started in. What is wrong with her project?","The second drive for block is set to drive forward when it should be set to drive in reverse."
+"In this project, the VR Robot will drive along the Y-axis until the value of the Location Sensor is greater than what value?
+",-250
+"In this project, what color will the Touch LED glow if the condition of the Check button on the Brain being pressed is TRUE?",Green
+"In this project, what data does the object exists sensing block provide?
+","It provides TRUE or FALSE data as to whether the Vision Sensor detects the object specified in the snapshot block."
+"In this project, what triggers the arm to move and energize the electromagnet?
+","Pressing the V5 Brain screen."
+"In this project, what will the robot do?
+","The robot arm will raise and then lower. The robot will then wait for one second before raising the arm again."
+"In this project, what will the robot do?","The robot will drive forward for 15mm, turn around toward the left to face the opposite direction, and then drive forward 30mm in the same direction it came from."
+"In this project, which action will make the Claw Motor and Arm Motor spin to their assigned positions?
+
+","Pressing the Controller’s Up-arrow button"
+"In this project, which behavior will the robot execute when the Check button on the Brain is pressed?
+","Drive forward 200 millimeters"
+"In this VEXcode EXP project, what will cause the Arm Motor to spin down?
+","Pressing the Controller’s L2 button"
+"In this VEXcode EXP project, what will happen when the Bumper Switch is pressed?
+","The robot will stop"
+"In this VEXcode IQ project, the Color Sensor is used to control the robot's behavior based on ______.","whether red is detected or not detected"
+"In this VEXcode IQ project, what will happen when the Bumper Switch is pressed?
+","The robot will turn right for 90 degrees"
+"In this VEXcode IQ project, what will happen when the Bumper Switch is pressed?","The robot will stop"
+"In this VEXcode IQ project, what will happen when the Color Sensor detects the color red?
+","The robot will stop driving"
+"In this VEXcode IQ project, what will happen when the Distance Sensor is less than 50 millimeters away from an object?
+","Turn right 90 degrees"
+"In this VEXcode IQ project, what will happen when the Optical Sensor detects an object?
+","The robot will turn right for 90 degrees"
+"In VEXcode VR Python an improperly indented project will do which of the following?","Not run as intended"
+"In what units does the (Position of Robot) block report the X or Y coordinates position of the VR Robot?
+","Millimeters (mm) or inches"
+"In which of these scenarios might the robot’s velocity be set lower than 50%?","When movements need to be precise."
+"In which scenario would using Bumper Switch be a disadvantage?
+","Avoiding any contact with obstacles or other robots
+
+
+
+"
+"It is important to calibrate the controller so that:","The V5 Robot Brain receives accurate positions of the joysticks"
+"It’s okay for an adult to design, build or program a robot as long as the students understand how the robot works.
+",False
+"It’s okay for an adult to design, build, or code a VIQC robot as long as the students understand how the robot works.
+",False
+"Knowing the area in which the Distance Sensor can detect an object can help you to ________________________________________.
+","Evaluate the position of the sensor in relation to the objects on the field
+"
+"Lauren coded this project to have the Clawbot grab a Buckyball and pick it up, drive forward and then turn right before lowering the arm back down to zero. However, the robot did not behave as intended. What is wrong with the code?","The last [Spin for] block should spin down for 250 degrees instead of 0."
+"Learning coding and computational thinking can have a positive effect on students' ______.","cognitive, social, and emotional development"
+"Learning coding and computational thinking can positively affect students’ ______ development. Select the best answer.","All of the above"
+"Learning computer science from a young age helps students develop 21st-century job skills.
+",True
+"Literacy-themed curricular resources for VEX 123 can be found in the form of  ","VEX 123 Activities, Activity Series, and VEX 123 STEM Labs"
+"Looking at a number of objects and knowing the number of objects that are there is known as _________, and is an example of _______________. ","Subitizing; non-verbal spatial math skills"
+"Making mistakes, iteration, and ______ are key components to learning computer science.
+",troubleshooting
+"Of the three options shown for mounting the motor, shaft, and wheel, which one is poorly designed in how it supports shafts?
+",C
+"One way to easily find literacy-themed VEX 123 Activities quickly is to","Use the “filter by subject” function on the VEX GO Activities page"
+"Ordering robot behaviors correctly to accomplish a task is called ______.
+",sequence
+"Out of the following choices, which is the best to do immediately after changing the gear cartridge?
+","I should change the gear cartridge setting within the device configuration in my VEXcode V5 project."
+"Path Planning can correctly be described as  ____________________________________.
+","the process of decomposing a project into smaller behaviors and documenting these behaviors"
+"Pressing the center button on the 123 Robot will cause ___________________.
+","The project to start
+"
+"Pressing the Start button on the 123 Robot will cause which action to occur?","The 123 Robot will run the project"
+"Pressing the Step button on the Coder allows the user to ______.
+","slowly run the project one Coder card at a time"
+"Pushing the 123 Robot along a surface will cause it to _____","Turn on"
+"Rylan detached, and then re-attached, her Eye Sensor to the VEX GO Brain after the brain was powered on. The Eye Sensor is not reporting values correctly. Which troubleshooting technique would most likely solve her problem?
+","Power cycling the Brain"
+"School readiness can best be described as which of the following?","What the child brings to school and how contextual supports enable them to grow"
+"Selecting this icon beside a command in the Toolbar will enable you to do which of the following?","Access the built-in Help"
+"Selecting this icon in the Toolbar will open which feature of VEXcode GO?
+",Help
+"Setting the Electromagnet to 'boost' will enable it to do which of the following?
+","Pick up a disk"
+"Setting the Electromagnet to 'drop' will enable it to do which of the following?
+","Release a disk"
+"Shafts connecting the motor and wheel will pivot slightly and be harder to spin unless they are designed with at least how many points of support?
+","2 parallel points of support"
+"Spatial working memory is important for students development of:
+","Handwriting skills
+"
+"Step 1 of this STEM Lab asks the students to _____. Why do you think it is important to include this step at the beginning of the STEM Lab?
+","Asks the students to check that the robot is ready before beginning. It is important because it provides links to articles from the VEX Library about troubleshooting techniques and reminds teachers to take the time to cover troubleshooting techniques with the class."
+"Students can engage with computer science in creative and collaborative ways.
+
+",True
+"Students create more neural connections when engaging in embodied learning. Which of the following is an example of students engaging in embodied learning?","Acting out the parts of a story"
+"Students working on a Chromebook can use the VEX 123 Web-based version or download it from the app store.
+
+",True
+"Teachers must have a high level of expertise before they can incorporate computer science into their teaching practices.",False
+"Teaching computer science to young students ______ the development of 21st century job skills.
+",supports
+"The  ______ in a STEM Lab are woven throughout its activities and assessments to help you support student learning.","Essential Questions and Unit Understandings
+
+"
+"The Alternate Coding Methods section in the STEM Lab Unit Overview provides ______.
+","information on how to teach STEM Labs using different ways to code"
+"The Alternate Coding Methods section of a STEM Lab is used to ______.
+","adapt a STEM Lab to reach students at their individual coding levels"
+"The app-based version of VEXcode V5 is made for use with _____________.","All of the above devices
+"
+"The availability of multiple coding methods for VEX 123 supports teaching computer science to a variety of students across different skill levels.
+
+",True
+"The Background information in a STEM Lab unit is designed to ______.
+","offer additional information about the context and concepts of the Lab"
+"The blue and red arrow symbols in this image from the build instructions signifies which of the following?","Turn the Blue Beam and Red Connector around to face the opposite direction"
+"The Brain's firmware is ______.
+","The behind-the-scenes programming that allows the Brain to interface with VEXcode IQ and to run user projects"
+"The Brain's firmware is ______.","he behind-the-scenes programming that allows the Brain to interface with the coding software"
+"The Bumper Switch is commonly used to ______.
+","trigger a robot action when pressed or released"
+"The Choice Board in a STEM Lab is designed to ______.
+","offer students options to show what they have learned"
+"The coordinate location of the number '4' on the Numbered Grid Map Playground is X: -300 millimeters (mm) and Y: -900 millimeters (mm). What is the correct sequence of commands to code the VR Robot to drive from the number '1' to number '4?'
+","Turn right for 90 degrees, Drive forward, Wait until the X position is greater than -300 millimeters (mm), Stop driving"
+"The coordinate location of the number '7' on the Number Grid Map Playground is X: 300 millimeters (mm) and Y: -900 millimeters (mm). What is the correct sequence of commands to code the VR Robot to drive from the number '1' to number '7?'
+","Turn right for 90 degrees, Drive forward, Wait until the X position is greater than 300 millimeters (mm), Stop driving"
+"The Cumulative Pacing Guide can be used to ______.","plan a scope and sequence of instruction using VEX IQ"
+"The Device Info (1st gen) or Sensor Dashboard (2nd gen) on the VEX IQ Brain can be used to view which information?","Which port on the Brain a device is connected to"
+"The device used to update firmware on the VEX IQ 2nd generation Brain must have ______.","A working USB-A port"
+"The Engineering Design Process is an iterative process made up of which three steps?
+
+","Define, develop solutions, and optimize"
+"The Eye Sensor can be used to detect which of the following?
+","If an object is nearby"
+"The Eye Sensor can report a(n) ______ value in degrees.
+","hue color"
+"The Eye sensor ______.","can detect if there is an object in front of the robot"
+"The Eye Sensor’s ability to determine the brightness level of an object allows it to ______.
+","distinguish between light and dark objects or surfaces"
+"The firmware on the EXP Brain and Controller ______.
+","is the code that allows them to interface with VEXcode EXP"
+"The four main categories of pieces in the VEX IQ system are ______.","Electronics, structural components, fasteners, and motion components"
+"The goal of this challenge is to navigate the VR Robot through the Disk Maze and stop at the red Disk. Which of the following could be added to this project in order to solve the Disk Maze challenge?
+","If FrontEye detects red then Stop"
+"The high level organizers for a STEM Lab Unit can be found in which section of the Unit Overview?",Overview
+"The highlight feature on the Coder can help students ______.
+","make connections between the behavior of the 123 Robot and the Coder cards"
+"The idea that learning involves not just our brains, but our whole bodies, and the more neural connections that are made while learning the more meaningful the learning will be is called _________________ .","Embodied cognition"
+"The Inertial Sensor is used to ______.","to maintain straight driving and make accurate turns with Drivetrain blocks"
+"The IQ 1st generation Distance Sensor uses _________________ to calculate the distance an object is from the sensor. 
+","Ultrasonic sound waves
+"
+"The IQ 2nd generation Distance Sensor uses _________________ to calculate the distance an object is from the sensor. 
+","Laser light pulses
+"
+"The LED Bumper will trigger a behavior when it ______.
+","is pressed"
+"The lights on the VEX GO Battery in this image show that the battery is ____________.","Fully charged"
+"The Meet Your Robot STEM Lab introduces students to ______. Select the best answer.","the concept of a robot, and the 123 Robot"
+"The multiple coding methods of VEX 123 create a high barrier of entry for students learning computer science.
+",False
+"The Optical Sensor can detect and report ______. Select the best answer.
+","The proximity and color of an object, and the brightness of light surrounding the sensor"
+"The Pacing Guide of a VEX GO STEM Lab can help you _________________.","Adapt the lab to meet your particular needs"
+"The Pacing Guide provides strategies for ______.
+","teaching a STEM Lab in less time"
+"The purpose of Inspection during a VRC event is to:
+","To ensure the robot is in compliance with regulations related to size, parts (proper amount and usage of parts, no sharp edges, no modifications, etc.), and field control guidelines (correct version of the software and competition template loaded)."
+"The purpose of the Background section of a VEX GO STEM Lab is ________________.","To provide teachers with knowledge necessary to answer any student questions about the topics in the STEM Lab, without doing outside research."
+"The purpose of the hat block in the competition template is to indicate which stacks are for which competition section.
+",True
+"The purposes of the Engage section of a VEX GO STEM Lab Lesson are:","To introduce the lesson and complete the build"
+"The Range Finder is a sensor used to determine the distance of the nearest object or obstacle from the sensor. Based on this project that uses the Range Finder, what does the robot do if the distance detected is greater than 3 inches?","The robot will drive forward"
+"The red indicator light in this image is conveying the following:","The Controller is plugged in and actively charging "
+"The Sensor Dashboard on the VEX EXP Brain can be used to view which information?
+","Which port on the Brain a device is connected to"
+"The sensors in the VEX 123 Robot enable it to ______.","move with precision and interact with its environment"
+"The three basic phases of the engineering design process are ______.","Define, develop solutions, and optimize"
+"The three stages in the engineering design process are: ____________, ______________, and _______________.
+","Define, Develop Solutions, Optimize
+"
+"The top-to-bottom sequence of Coder cards in a Coder project corresponds to ______.
+","the order in which the 123 Robot will perform the actions"
+"The Touch LED can ______.","detect when your finger touches the top, and can display a variety of colors"
+"The Touch LED can ______. Select the best answer.
+","All of the above"
+"The transparent lids of VEX GO storage cases help students and teachers quickly recognize ______.","When parts are missing from a VEX GO kit"
+"The two sides of the Fractions build are _____________ in order to represent _________.","The same size; equivalent fractions"
+"The VEX Classroom App allows teachers to ______. Select the best answer.","update the firmware on 123 Robots and Coders"
+"The VEX Classroom App ______.","helps users manage their classroom's 123 Robots and Coders"
+"The VEX GO Brain can report heading values in degrees.
+
+",True
+"The VEX GO Brain can report headings in a range of ______.
+","0 to 359.99 degrees "
+"The VEX GO Brain can report rotation values in degrees. 
+
+",True
+"The VEX GO Brain reports acceleration on which of the following axes?
+","X, Y, and Z"
+"The VEX GO part shown in this image is a _________________.",Battery
+"The VEX Library contains articles about the Workcell to support ______. Select the best answer.
+","All of the above"
+"The VEX Library hosts a wide variety of articles that answer users' common questions about hardware, software, and implementation of VEX with students.",True
+"The web-based version of VEXcode V5 is made for use with _____________.","Chrome-based browsers
+"
+"The [Broadcast] block ______.","is used to trigger robot behaviors"
+"The [Drive for] block moves a GO robot ______.
+","forward or in reverse a specific distance"
+"The [Turn for] block is used to turn a robot right or left a specific number of degrees.
+",True
+"The [Turn for] block turns a GO robot ______.
+","left or right a specified number of degrees"
+"The [Wait until] block is a Control block that accepts Boolean values.
+",True
+"The [Wait until] block is a ______.
+","Control block that accepts Boolean values"
+"The [Wait until] block is a ______.","Control block that accepts Boolean values"
+"The ______ block allows you to set parameters for direction, distance, and units.","[Drive for]"
+"The ____________ portion of a VEX 123 STEM Lab is an introduction to the lesson where students can make a personal connection to what they will be learning about.
+",Engage
+"The ________________ in the VEX EXP Kit bins help you know where to put pieces back when you deconstruct a build.","Images of the pieces underneath the clear plastic"
+"The ________________  in the VEX IQ (2nd gen) Kit bins help you know where to put pieces back when you deconstruct a build.","Images of the pieces underneath the clear plastic"
+"The _________________ section of a STEM Lab shows where and how aligned standards are met within the Lab lesson.
+","Goals and Standards
+
+"
+"The __________________ in the VEX GO Kit boxes help you know where to put pieces back when you deconstruct a build.","Images of the pieces underneath the clear plastic"
+"The __________________ is designed to be used to introduce students to the 123 Robot.","Meet Your Robot PDF Storybook
+"
+"The “Get Ready…Get VEX…GO!” storybook introduces the VEX GO kit to your students, and ______.","Walks them through a simple build with just a few basic parts"
+"This button will cause the robot to do which of the following:
+","Drive forward 1 step
+"
+"This button will cause the robot to do which of the following: 
+","Turn right 90 degrees"
+"This button will cause the robot to do which of the following:","Turn left 90 degrees"
+"This image in the build instructions shows which of the following?","The way the loose pieces in the build instructions fit into both sides of the Fractions build to show equivalent fractions"
+"This pink arrow symbol in build instructions signifies which of the following?","Remove the pieces shown from the existing build"
+"This project is intended to drive to number '6' on the Number Grid Map Playground but does not work. Number '6' has the coordinates X: 50 and Y: -900. What is the error?
+","The [Wait until] block should contain a <Greater than> block instead of a <Less than> block"
+"This project is intended to drive to number '61' on the Number Grid Map Playground but does not work. Number '61' has the coordinates X: -900 and Y: 300. What is the error?
+","This project should use a <Greater than> block instead of a <Less than> block and keep the same parameters"
+"This project is intended to drive to number '9' on the Number Grid Map Playground but the project is incomplete. What block from the Sensing category should be placed in the first [Wait until] block?
+","(Position of Robot) block"
+"This project is intended to drive to number “91" on the Number Grid Map Playground but the project is incomplete. What block from the Sensing category should be placed in the first [Wait until] block?
+","(Position of Robot) block"
+"This project was used to draw a house on the Art Canvas Playground, but it does not work correctly. What is the error?
+","The [Repeat] block was set to three, but it should be set to four in order to draw the square portion of the house"
+"This project was used to drive the VR Robot from Start to the number '1' in the Wall Maze Playground, but does not work correctly. What is the error?
+","The last [Turn for] should be right instead of left."
+"This project was used to drive the VR Robot to number "25" on the Number Grid Map, but it does not work correctly. What is the error?
+","Wait until position Y in millimeters (mm) should be GREATER than -500, not LESS than"
+"This project was used to drive the VR Robot to number "4" on the Number Grid Map, but it does not work correctly. What is the error?
+","The [Turn for] block should be the first block in the project, not the last"
+"This sequence of Touch button presses will cause the 123 Robot to: 
+","Drive forward 1 step, Turn left 90 degrees, Drive forward 1 step, Turn right 90 degrees, then Play a honk sound
+"
+"This symbol in build instructions signifies which of the following?","Pay attention to the orientation of a piece, to be sure it is facing the proper direction in the build"
+"To change the Radio type from VEXnet to Bluetooth, a user needs to _________.","Select’ Settings’ then ‘Radio Type’
+"
+"To ensure accurate data collection during this investigation, it is important that the Super Car is ______________________.","Set up precisely at the same starting location for each trial"
+"To ensure that the data collection in this investigation is accurate, you should __________.","Start the stopwatch at the exact same time as pressing the Switch forward"
+"To help students internalize the Robot Rules they have helped to create, offer opportunities to ______________, like ______________. 
+","Practice the rules; role playing scenarios to show how to follow the rules when working together
+"
+"To run the Drive program on the controller, which of the following is true?","Select the “Drive” option from the Home screen on the Controller and select “Run.”"
+"To run the Driver Control program on the Robot Brain, select ______, then select "Run."",""Driver Control" (1st gen) or "Drive" (2nd gen) on the IQ Brain"
+"Troubleshooting is a systematic method for identifying and resolving a problem. 
+",True
+"True or False: A blinking green light indicates that the Controller and Brain are paired.
+",True
+"True or False: A blinking green light indicates that the Controller and Brain are paired.",True
+"TRUE or FALSE: A programming language is a spoken language used to communicate with the VR Robot.
+",False
+"True or False: A user can change the behavior of a robot by changing the commands.
+",True
+"True or False: A V5 Radio is required in order to wirelessly pair the Controller to the V5 Brain
+",True
+"True or False: A V5 Robot Radio is needed for a wireless connection.",True
+"True or False: A VIQC Engineering Notebook is used to document a team's design process over the season.
+",True
+"TRUE or FALSE: Activities can be used as part of a teacher's lesson, as an extension activity, or as a scaffolding strategy to support differentiated learning.
+",True
+"True or False: All awards at an event can qualify teams to a Championship event.
+",False
+"True or False: Block-based coding can be an effective way to introduce programming to novices.
+",True
+"True or false: Bumper switches must be connected to ports next to each other in the Vex V5 Robot Brain for them to work.
+",False
+"TRUE or FALSE: Capturing a shaft is when you affix a component to a shaft so it will spin with the shaft, while also keeping the shaft from sliding back and forth, or keeping a part from sliding back and forth on a shaft.",True
+"True or False: Comments allow users to make their project more readable for other users.
+",True
+"True or False: Comments can be added to a project by right clicking or long pressing in the Workspace to launch the Context Menu. Then select "Add Comment".
+",False
+"True or False: Conditions, like the number of times repeated, are used to end a [Repeat] block.
+
+",True
+"TRUE or FALSE: Each Unit of the VEX V5 Workcell Educator Certification reviews the activities of a STEM Lab or the Workcell Extensions and how to facilitate those activities. 
+",True
+"True or False: In a VIQC Driver Skills match, the two Drivers can switch their controller at any time during the match.
+",False
+"TRUE or FALSE: In the image shown here, the Art Ring is CORRECTLY aligned with the 123 Robot and is ready to be snapped into place.
+",True
+"True or False: In this project, multiple [If then] blocks are used to check different conditions, and perform associated behaviors based on the these conditions.
+",True
+"True or False: In this project, the VR Robot will drive along the X-axis until the value of the Location Sensor is greater than -100
+",True
+"TRUE or FALSE: Multiple projects can be saved to the V5 Brain. ",True
+"TRUE or FALSE: Neural pathways built by learning motor milestones as infants are used later for higher order cognitive learning in school.",True
+"True or False: Python can only be accessed with an active VEXcode VR subscription.",True
+"True or False: STEM Labs contain references to tutorial videos and articles from the VEX Library.
+",True
+"True or False: Tank Drive uses a single Joystick to control both the Left and Right Motors and Arcade Control uses both Joysticks.",False
+"True or False: The <Color sensing> block is a Boolean block that reports TRUE when the Eye Sensor detects a selected color, and FALSE when it detects a different color than the one selected.
+",True
+"TRUE or FALSE: The addition of standoffs to the Workcell can help improve the flow of disks.
+",True
+"True or False: The Eye Sensor can detect if there is an object present and if so, the color of that object.
+",True
+"TRUE or FALSE: The Line Tracker will return a value anywhere between 0% and 100% light reflectivity.
+",True
+"True or False: The Location Sensor is located on the back of the VR Robot.
+",False
+"TRUE or FALSE: The locking tabs on a custom length V5 smart cable should be oriented in the same way, as shown in this image.
+
+",False
+"True or False: The Motor Options screen allows you to rename the directions that the motor spins from their default of “forward” and “reverse.”",True
+"True or False: The snapshot block must be used before the object exists block.
+",True
+"True or False: The Track Drive is omni-directional and has the ability to travel over obstacles.
+",False
+"TRUE or FALSE: The V5 Brain can be used while the battery is connected to the Brain and charging.
+",True
+"True or False: The Vision Sensor must first be added to the robot configuration before vision sensing blocks will appear in VEXcode V5.
+",True
+"TRUE or FALSE: The Workcell Extensions are designed to further explore concepts covered in the STEM Labs and introduce students to additional sorting and automation concepts.
+",True
+"TRUE or FALSE: The Workcell Extensions include concepts from STEM Labs 1-12 to be further practiced, including diverters, single and multiple conveyors, line trackers, optical sensors, altered disk feeders, a user interface, and multiple Workcells.",True
+"TRUE or FALSE: The Workcell lowers the barrier of entry to introduce students to industrial robotics in the classroom.
+",True
+"True or False: The [Forever] block is a C block that repeats the behaviors inside of it forever.",True
+"True or False: The [Repeat] block can accept decimals as parameters.
+",False
+"True or False: the [Spin for] block can be used to code the drivetrain to turn left or right for a specific distance.
+
+",False
+"True or False: The [Turn for] block is used to turn a drivetrain right or left a specified distance.
+",True
+"True or False: The [Wait until] block is a Control block that accepts Boolean values.",True
+"TRUE or FALSE: The ‘Arm Install' example project actually moves the motors connected to the potentiometers at each joint on the Workcell to their target location, while the 'Arm Mastering’ example project is used to verify and display the current mastering values so they can be recorded and used when coding the Workcell.
+",True
+"True or False: This block can be used as a condition.
+",False
+"True or False: This block can be used as a condition.",True
+"True or False: To access Help for VEXcode VR blocks, select the Help icon and then select the block.
+",True
+"True or False: To rename a project select the project name box, enter project name, and select "Rename."",True
+"True or False: Type vr.vex.com in the browser to launch VEXcode VR",True
+"True or False: Type vr.vex.com in the browser to launch VEXcode VR.
+",True
+"True or False: VEX IQ Activities are only meant for use with VEX IQ (2nd generation) Kits.",False
+"TRUE or FALSE: VEX PD+ is a subscription service that provides ongoing, personalized learning opportunities for VEX educators.
+",True
+"True or False: VIQC qualifying awards can include both Performance and Judged awards.
+",True
+"True or False: When a command is correctly typed into the Workspace, the code color will follow the VEXcode VR Python colorization conventions",True
+"True or False: When a device is mounted and connected it also needs to be configured to ensure VEXcode V5 and the device communicate properly.
+",True
+"True or False: When configuring the Vision Sensor, it must be connected to the computer via a Smart Cable for the Vision Utility to launch.
+",False
+"True or False: You can purchase a VEXcode VR subscription from vr.vex.com",False
+"TRUE or FALSE: [Broadcast and wait] blocks trigger both stacks of blocks to run at the same time.
+",False
+"True or False: [Broadcast] blocks are used to trigger robot behaviors.",True
+"Using a robot to teach computer science makes abstract concepts less visible and concrete for young students.
+",False
+"Using build instructions in your classroom ______. Select the best answer.","Gives all students a consistent build experience"
+"Using the 123 Robot and Coder with the 123 Field promotes exploration and experimentation by creating a ______ environment.
+",controlled
+"Using the Step button to see each command performed individually by the 123 Robot can help students ______.
+","identify where an error is in their project"
+"Using VEX 123 in a classroom environment ______.
+","supports teachers and students to explore and experiment with coding"
+"Verbalizing the path the VEX 123 Robot needs to drive is an example of _____________.","Spatial language"
+"VEX 123 can be used in ______. Select the best answer.
+","All of the above"
+"VEX 123 enables ________ teachers to incorporate computer science into their teaching practices, regardless of prior experience. Select the best option.",all
+"VEX 123 removes typical impediments to students learning Computer Science.",True
+"VEX 123 STEM Labs can be used to support ______ in your classroom.
+","social-emotional curriculum"
+"VEX 123 ______. ","removes impediments to teaching computer science to young students"
+"VEX EXP Activities ______.
+","include tips that highlight build and design concepts"
+"VEX GO Discovery Activities can best be described as ____________________.","Simple Activities using only 12 pieces in the VEX GO Kit that are designed to support spatial reasoning skills, and can be completed in under 15 minutes."
+"VEX IQ Activities ______.","include tips that highlight build and design concepts"
+"VEXcode EXP blocks will not run if they are not connected to ______.","The {When started} hat block"
+"VEXcode IQ blocks will not run if they are not connected to ______.","The {When started} hat block"
+"Visualizing a number line, estimating, geometry, 1:1 correspondence, and subitizing are all examples of:","Non-verbal spatial skills"
+"What are environmental factors that affect what the Optical Sensor detects?",Lighting
+"What are low profile bearing flats used for when building with VEX EXP?
+","To allow shafts to turn more smoothly"
+"What are post standoff retainers used for?
+","To tighten screws without needing a wrench or pliers"
+"What are Qualification Matches?
+","Matches played after all teams are checked in that determine the ranking of teams for the later Elimination Matches"
+"What are shaft collars used for in VEX EXP builds?
+","To secure wheels and gears on a shaft"
+"What are spacers used for in VEX EXP builds?
+","Keeping mechanisms positioned correctly"
+"What are the approximate coordinates for the number "51" on the Number Grid Map Playground?
+","X: -900 millimeters (mm)
+Y: 100 millimeters (mm)"
+"What are the approximate coordinates for the number "56" on the Number Grid Map Playground?
+
+","X: 100 millimeters (mm)
+Y: 100 millimeters (mm)"
+"What are the approximate coordinates for the number '13' on the Number Grid Map Playground?
+","X: -500 millimeters (mm)
+Y: -700 millimeters (mm)"
+"What are the approximate coordinates for the number '33' on the Number Grid Map Playground?
+","X: -500 millimeters (mm)
+Y: -300 millimeters (mm)"
+"What are the four different types of driver configurations?
+","Dual Drive, left arcade, right arcade, and split arcade
+"
+"What are the four different types of driver configurations?"," Tank drive, left arcade, right arcade, and split arcade"
+"What are the four main categories of VEX IQ parts?","Electronics, structural components, fasteners, and motion components"
+"What are the numbers inside the plug icons indicating in this image from the build instructions?","Which ports on the Brain the motors should be connected to"
+"What are the recommended steps for troubleshooting software?
+","Check firmware and device configuration, then debug the VEXcode EXP project"
+"What are the recommended steps for troubleshooting software?","Check firmware, Brain generation, and device configuration, then debug the VEXcode IQ project"
+"What are the recommended steps to troubleshoot hardware?
+","Check your power supply, cables, and Controller, then check that devices are reporting data as expected"
+"What are the recommended steps to troubleshoot hardware?","Check your power supply, cables, and Controller, then check that devices are reporting data as expected"
+"What are the steps to configure the VEX EXP Speed Build in VEXcode EXP?","Select the BaseBot from the templates in File -> Open Examples"
+"What are the steps to download a PNG image from Google Slides?","File > Download > PNG image"
+"What are the three basic phases of the engineering design process?","Define, Develop Solutions, Optimize
+"
+"What are the three foundational cognitive skills Claire Cameron refers to in the video?","Executive functioning skills, motor skills, and spatial skills"
+"What are the three functions of the Pin Tool?","Pulling, pushing and prying"
+"What are the three sections of the Competition Template?
+","The three sections are 1) pre-autonomous, 2) autonomous, and 3) driver control."
+"What are the two parts of a VEX Robotics Competition match?
+","There is an autonomous portion and a driver control portion."
+"What aspects of executive functioning must students employ when learning to read?","Working memory, self control, and cognitive flexibility"
+"What block should be used next in this project to begin drawing the roof of the house?
+","[Turn for] block set to 135 degrees"
+"What building on the Castle Crasher Playground will be the THIRD knocked over according to this project?
+",5
+"What camp resource has a VEX 123 specific version?","Camp Manual Template
+"
+"What can be measured in the Motor Dashboard?
+","Power, Torque, Velocity, Motor Degree, Revolutions, Gear Ratio"
+"What can be used to change a robot's behavior?
+",Commands
+"What can students see by using the Step button?
+","Commands being performed individually by the 123 Robot"
+"What can the Color Sensor be used to detect and report? Select the best answer.
+","Brightness and the proximity and color of an object"
+"What can the Optical Sensor be used to detect and report? Select the best answer.
+","All of the above"
+"What can the Optical Sensor be used to detect and report? Select the best answer.","All of the above"
+"What can the Optical Sensor detect and report?
+","The proximity and color of an object, and the brightness of light surrounding the sensor"
+"What can the [Repeat] block accept as parameters? Select the best answer.
+
+","Integers or numeric blocks"
+"What color is the Brain icon in VEXcode EXP when the firmware on a connected Brain is up to date?",Green
+"What color is the Brain icon in VEXcode IQ when the firmware on a connected Brain is up to date?",Green
+"What color is the Brain icon in VEXcode V5 when the firmware on a connected Brain is up to date?",Green
+"What color lines can the VEX VR Pen draw using the [Set pen color] block?
+","Green, Red, Black, and Blue"
+"What color should the indicator lights blink on a VEX IQ (2nd gen) Controller and Brain when successfully paired?",Green
+"What creates the magnetic field for the V5 Electromagnet?
+","An electric current."
+"What determines the coordinate system of the Workcell?
+
+","The orientation of the Potentiometer at the center of the turntable"
+"What do non-waiting blocks do in a VEXcode VR project?
+","They allow the the stack to continue even if the block's behavior is not yet complete."
+"What do waiting blocks do in a VEXcode VR project?
+","Pause the stack until that block's behavior has been completed."
+"What do you select to save a copy of the VEXcode EXP project?","‘Save As’"
+"What does a Boolean block do?
+","Reports a condition as etiher TRUE or FALSE."
+"What does a C block do?
+","Loop the block(s) within them checks if a condition is TRUE or FALSE."
+"What does a drivetrain allow a robot to do?
+","A drivetrain allows a robot to be mobile by using wheels, tank treads, or another method."
+"What does a reporter block do?
+","Reports values in the form of numbers"
+"What does each Workcell Extension include?","Background information, construction details, and three different levels of challenges"
+"What does it mean to capture a shaft in the VEX IQ system?","Fixing a component to a shaft so it will spin with the shaft without sliding"
+"What does the 123 Robot use to interact with its environment?",Sensors
+"What does the <Pressing bumper> block report if the Bumper Sensor is pressed?
+","Reports TRUE."
+"What does the Bumper Switch report?
+","Pressed and Not Pressed (0 and 1) 
+"
+"What does the Bumper Switch report?","Pressed and Not Pressed"
+"What does the code do based on Optical Sensor input in this VEXcode EXP project?
+","Decides whether to turn right or left based on the color detected"
+"What does the conditional evaluate in the [Wait until] block?
+","Is the bumper pressed."
+"What does the Distance Sensor do in this VEXcode EXP project?
+","Has the robot turn 90 degrees when an object is less than 50 millimeters away"
+"What does the green Controller icon at the top of VEXcode EXP indicate?","The Controller’s firmware is up to date"
+"What does the green highlighting on the Coder indicate?
+","The Coder card that is being actioned by the 123 Robot at that moment"
+"What does the green-circled symbol mean in VEX build instructions?","Pay special attention to the part’s orientation and connection"
+"What does the greenAccepted Boolean variable store after the first green disk has passed the Line Tracker?
+","The variable reports 'true'."
+"What does the highlighting feature do when a waiting block is being executed?
+","A highlight will appear around the block until the behavior is complete."
+"What does the Project Stepping Feature provide when using it with a project?
+","It provides you with a visual representation of the flow of the commands as they are being executed within a project."
+"What does the V5 Robot Battery use to indicate errors?
+","Blinking red lights"
+"What does the [Drive for] block do?
+","It moves the drivetrain a specified distance forward or in reverse"
+"What does the [Drive for] block do?","It moves the drivetrain a specified distance forward or in reverse"
+"What does the [Drive for] block instruct the robot to do?
+","Move the robot a specific distance forward or in reverse"
+"What does the [Forever] block do in this project?
+","Continuously checks if the Bumper Switch is pressed"
+"What does the [Forever] block do in this project?","Continuously check if the Bumper Switch is pressed"
+"What does this project do?","The robot will drive in reverse for 25mm, wait, and then drive forward for 50mm."
+"What does this ‘2X’ mean in the build instructions?","That the current step shown should be completed twice"
+"What does using comments in a project allow users to do?
+","Describe parts of their project for other users"
+"What feature highlight blocks as they progress through the project execution?
+","The Step feature."
+"What happens after the Bumper Switch in Port B is pressed?
+","The robot turns right for 90 degrees."
+"What happens in VEXcode GO when a Code Base is configured? Select the best answer.
+","The necessary blocks appear in the Toolbox"
+"What happens when you add the Code Base in the devices window in VEXcode GO?
+","The appropriate blocks will appear in the Toolbox"
+"What happens when you press the Stop button on the Coder?
+","The project will stop, and the 123 Robot will stop moving"
+"What happens when you shake the 123 Robot?","The project is erased"
+"What images can you download from the Art Canvas+ Playground?","Both b and c"
+"What information can the Distance Sensor report?
+","When an object is present in front of the sensor"
+"What information is found in the Pacing Guide? Select the best answer.
+","All of the above"
+"What information is included in the Content Standards document? Select the best answer.","Alignment of standards to STEM Labs"
+"What information is included in the How and Where Standards are Reached document?","Specifics on how VEX IQ STEM Labs align to standards"
+"What information is included in the steps of VEX GO build instructions? Select the best answer.","All of the above"
+"What information is included in the Where and How Standards are Reached document?
+","Specifics on how VEX EXP STEM Labs align to standards"
+"What information is provided on the ‘Get Started with VEX 123’ page?","Links to help you get ready to teach with VEX 123"
+"What information is reported by the Gyro Sensor?
+","Heading and rotation"
+"What is a behavior, in the context of computer science?
+","A specific action that is performed by a robot"
+"What is a behavior?
+","An action performed by the robot."
+"What is a benefit of including a manipulator in a robot’s design?
+","Manipulators allow robots to interact with their environments."
+"What is a manipulator?
+","A device used by a robot to interact with and move objects."
+"What is a programming language?
+","A set of rules in which symbols represent actions"
+"What is a recommended source for finding funding for robotics teams?
+","The Robotics Education & Competition (REC) Foundation"
+"What is a sequence, in the context of computer science?
+","Ordering behaviors correctly to accomplish a task"
+"What is a suggested way to evaluate student understanding of blocks?
+","Using a Sample Block Worksheet"
+"What is an advantage of duplicating a block? 
+","It allows a user to create their projects faster and more easily."
+"What is an Elimination Match?
+","A match used in the process of determining the champion alliance"
+"What is Arcade Control?
+","A single joystick is moving left/right and up/down (both the X and Y axis) to control a robot."
+"What is best described as “a mechanism that will completely stop its assigned equipment or electrical circuit?”
+","Emergency stop (E-stop)"
+"What is configured in this example?
+","A 2-motor drivetrain"
+"What is necessary to create a working VEXcode GO project? Select the best answer.
+","All of the above"
+"What is needed to code the 123 Robot with the Coder? Select the best answer.
+","Coder cards"
+"What is NOT included in tournaments that have 24 or more teams?
+","Innovation Matches"
+"What is NOT necessary to create a working project?
+","Adding blocks into the project randomly."
+"What is one purpose of the Facilitate step in the Play section of a STEM Lab?
+","Provides discussion prompts on the goals of the activity"
+"What is one reason why it is important to involve your students in the process of creating Robot Rules? 
+","When students’ voices are heard and valued, they are more likely to take ownership over the rules and follow them in the classroom.
+"
+"What is one way to extend the learning around the frog habitat that is described in this Lesson?","Use VEX GO pieces to create an additional animal or creature that lives in the habitat"
+"What is persistence?","The ability to see a task through to completion with focus"
+"What is pseudocode?
+","An informal way of writing your computer instructions in words so it is readable by anyone."
+"What is Tank Control?
+","Both joysticks on the V5 Controller are moving up and down (Y axis) to control the robot."
+"What is the advantage of using the Bumper Switch on a robot?
+","Have the robot perform certain behaviors depending on if the Bumper Switch is pressed or not pressed"
+"What is the behavior of the V5 Electromagnet when the [Energize electromagnet] block is set to 'drop?'
+","The electromagnet drops the disk."
+"What is the best description of a hat block?
+","They start a stack of blocks in a project and are shaped to attach blocks below them."
+"What is the brain’s firmware?","The behind-the-scenes programming that allows the brain to interface with VEXcode V5 and to run the user projects"
+"What is the condition that will end this [Repeat] block?
+","After the VR Robot has driven forward 200 millimeters (mm) then turned right 60 degrees six times"
+"What is the correct process to run the built in Drive program once both the Brain and Controller are turned on and paired?
+","Select ‘Drive’ and then ‘Run’ 
+"
+"What is the correct process to run the built in Drive program once both the Brain and Controller are turned on and paired?"," Press the checkmark to select the highlighted Drive program, then press the checkmark again to run the program"
+"What is the default velocity of the VR Robot?
+",50%
+"What is the Distance Sensor used for in this VEXcode IQ project?","To have the robot turn 90 degrees when an object is less than 50 millimeters away"
+"What is the fastest way to configure the VEX IQ Speed Build in VEXcode IQ?","Click the Tutorials icon and choose ‘Device Setup - Drivetrain’"
+"What is the first step for troubleshooting VEX EXP software?
+","Check that firmware is up to date"
+"What is the first step in coding the VR Robot to draw a red line?
+","Drag the [Set Pen color]  block into the workspace and use the drop-down menu to set the color to "red""
+"What is the first step in coding the VR Robot to move the VR Pen down to draw a black line?
+","Drag the [Move pen] block into the workspace and use the drop-down menu to set the position to "down""
+"What is the first step of the procedure for troubleshooting VEX IQ software?","Check that firmware is up to date"
+"What is the first thing that needs to be done when arriving at a VEX Robotics Competition?","Check in and have the robot inspected"
+"What is the first thing to do when arriving at a VEX Robotics Competition?
+","Check in and have the robot inspected"
+"What is the gear ratio for a 72 tooth driven gear and a 12 tooth driving gear?
+","6:1 ratio"
+"What is the goal of the Capstone Project competition?
+
+","Design a Workcell that will sort all 36 randomly dispensed disks into their designated colored End Zones, as quickly as possible"
+"What is the goal of the investigation using the Unpowered Super Car?","To test the effects of gravity on the Unpowered Super Car"
+"What is the last step of the process to download a VEXcode IQ project from a device to the Brain?","Select the 'Download' button"
+"What is the last step of the process to download a VEXcode IQ project to the Brain?
+","Select the 'Download' button"
+"What is the main purpose of the VEX V5 Bumper Switch?","To report if the switch is pressed or released, allowing the robot to interact with its environment"
+"What is the maximum velocity setting for the VR Robot?
+",100%
+"What is the name for an action performed by a GO robot?
+",Behavior
+"What is the optimal size for images to be uploaded on the Art Canvas+ Playground?","1000 by 1000 pixels"
+"What is the order in which behaviors will be executed in this project?
+","Drive Forward until Left Bumper is pressed, Turn right for 90 degrees, Drive Forward until Left Bumper is pressed, Turn Left for 90 degrees, Drive Forward"
+"What is the primary purpose of the "When started" or pre-autonomous portion in the Competition Template?","To allow for any set-up the robot may need such as calibrating a gyro, setting variables, or other device settings"
+"What is the primary purpose of the Autonomous portion in the Competition Template?","To allow the robot to be controlled solely by the code in the autonomous stack without human intervention
+"
+"What is the primary purpose of the Driver Control portion in the Competition Template?","To create customized driver controls and allow human control of the robot
+"
+"What is the purpose of adding a timeout block when coding the V5 Clawbot claw?
+","To prevent the claw from being damaged if coded past its range of motion."
+"What is the purpose of having multiple [If then] blocks in this project?
+","To have the Front Eye Sensor check for each color and have the VR Robot perform a discrete behavior depending on the color detected"
+"What is the purpose of shafts in the VEX IQ system?","Shafts allow assemblies to spin or rotate, and can drive gears, wheels, or pulleys"
+"What is the purpose of the Engage section of a VEX GO STEM Lab?
+","To introduce the Lab and make connections between students and the main concepts"
+"What is the purpose of the Letter Home in each STEM Lab Unit?
+","To connect students' families to their in-class learning"
+"What is the purpose of the VEX IQ Distance Sensor?
+","To determine the distance from the front of the sensor to an object in front of it"
+"What is the purpose of the welcome letter provided for each camp?","To communicate with parents and campers what to expect from camp
+"
+"What is the purpose of the [Wait] block in this code snippet?
+","To spin the transport conveyor for a designated amount of time before moving on to the next block in the stack."
+"What is the range of values used when setting velocity?
+","0% to 100%"
+"What is the role of Essential Questions in a STEM Lab Unit?
+","They support teaching for understanding and are woven throughout the Labs"
+"What is the role of the Scouts?
+","They watch every match, record information about all of the robots at the competition, and then work with the Coach to prepare strategies for upcoming matches."
+"What is the simplest way to identify the size of parts in the V5 kit?","Use the V5 Parts Ruler
+"
+"What is the structure of VEX EXP STEM Lab Units?
+","Learn - Practice - Compete"
+"What is the structure of VEX IQ (1st generation) STEM Labs?","Seek - Play - Apply - Rethink - Know"
+"What is the structure of VEX IQ (2nd generation) STEM Lab Units?","Learn - Practice - Compete"
+"What is the suggested length of day in each VEX 123 camp schedule?","Half day (three hours)
+"
+"What is the V5 Workcell Content Standards document?
+","It shows the alignment of curricular standards to the Workcell STEM Labs"
+"What is the V5 Workcell How and Where Standards are Reached document?
+","Information on how Workcell STEM Labs align to standards"
+"What is the value of using the Bumper Switch on a robot?","Have the robot perform certain behaviors depending on if the Bumper Switch is pressed or not pressed"
+"What is the VEX Library?
+","A searchable online library of information about VEX products and services"
+"What is torque?
+","The measure of a force causing an object to rotate about an axis"
+"What is true of a gear ratio of 5:1?
+","It will increase torque and lower speed. This is useful for being able to push other robots, lift and carry heavier objects, or climb hills."
+"What is used to connect the V5 Brain and V5 Battery? 
+","Battery cable"
+"What is used to connect the V5 Brain to a device with app-based VEXcode V5 on an iPad?","A Bluetooth connection
+"
+"What is used to connect the V5 Brain to a device with web-based VEXcode V5?","A USB to micro-USB cable
+"
+"What materials are needed to power up a Coder for the first time?
+","Two AAA batteries and a small screwdriver"
+"What must happen for a downloaded program to run from the controller?","Choose the program then select run."
+"What omni-directional drivetrain is shown here?","Kiwi Drive"
+"What order will the buildings on the Castle Crasher Playground be knocked over according to this project?
+","3, 2, 5, 4, 1"
+"What order will this project check the condition the Front Eye Sensor is detecting?
+","Green, blue, red"
+"What part of the block do you select to change the direction of the [Drive for] block?
+",1
+"What percent should the [Set optical light power] block be set to, in order to improve the accuracy of the color detection?
+",100%
+"What process is this image showing?"," How to pair the Controller to the Brain"
+"What resources are included in the teacher section of SPARK STEM Labs?","Preview, pacing guide, answer key, and letter home"
+"What resources are included in the Teacher's Portal of VEX EXP STEM Lab Units?
+","Facilitation guide, letter home, and a debrief conversation rubric"
+"What resources are included in the Teacher's Portal of VEX IQ (2nd gen) STEM Lab Units?","Sample learning targets, facilitation guide, letter home, and a debrief conversation rubric"
+"What resources are provided on a STEM Lab’s Build Instruction’s page?","Tips that refer to specific building steps, a visual list of the parts needed in each step, and a slideshow of the steps."
+"What rotation value would the VEX GO Brain report if the Code Base turned right in 2 complete circles?
+","720 degrees"
+"What section of the Unit Overview provides information about making the STEM Lab Unit fit your unique classroom needs?
+","Pacing Guide"
+"What should you consider when comparing your build to the instructions? Select the best answer.","All of the above"
+"What should you do before moving on to the next step in build instructions?","Carefully check your build against the illustration to make sure they match exactly"
+"What technique can be used when deconstructing to make the process easier? Select the best answer.","All of the above"
+"What triggers the exit conveyor motor to stop running in this code snippet?
+","Exit Sensor reports a value greater than 20%."
+"What two things can the Eye Sensor detect?
+","If an object is present, and the color of the object"
+"What type of block is shown here?
+","Boolean block"
+"What type of drivetrain is shown in this picture?","Standard Drive"
+"What type of manipulator would be used to push objects without the use of a motor?
+","A passive manipulator."
+"What type of port does the Bumper Switch plug into?",3-Wire
+"What type of value does the Line Tracker return?
+","Percentage values from 0 to 100%"
+"What types of values can the [Repeat] block accept as parameters?
+","Positive integers"
+"What types of values can the [Turn to heading] block NOT accept as parameters?
+","Words or text"
+"What types of values does the [Wait until] block accept?
+","Boolean values: TRUE or FALSE."
+"What value will the <Color sensing> Boolean block report when the Eye Sensor detects a different color than the one that was selected?
+","It will report FALSE"
+"What value will the <Eye Sensor near object> Boolean block report when the Eye Sensor is close to an object that has detectable colors?
+","It will report TRUE"
+"What values can a Boolean variable store in VEXcode V5?
+","True or false values"
+"What values does the <Pressing bumper> block return?
+","TRUE (pressed) or FALSE (released)."
+"What will happen if the Front Eye Sensor detects green in this project?
+","The VR Robot will turn right for 90 degrees."
+"What will happen if the FrontEye detects green in this project?
+","Turn right for 90 degrees."
+"What will happen when the (Distance from) block reports that it is less than 50 millimeters (mm) from an object?
+","The VR Robot will turn right for 90 degrees."
+"What will happen when the Bumper Sensor is pressed in this project?
+","The VR Robot will stop driving."
+"What will happen when the Front Eye Sensor detects red in this project?
+","The VR Robot will stop driving."
+"What will occur when you press the Start button on the 123 Robot? Select the best answer.","The 123 Robot will start the project"
+"What will the <Pressing bumper> block inside the [Wait until] block report in this example?
+","TRUE (bumper pressed) or FALSE (bumper released)."
+"What will the BaseBot do when the color red is detected in this project?","Drive reverse 2 inches"
+"What will the Code Base do when the LED Bumper is pressed in this project?
+","Drive reverse for 100 mm, then turn left for 90 degrees"
+"What will the robot do based on this project?
+","The robot will open the claw 60 degrees, drive forward for 15mm, then close the claw."
+"What will the VR Robot will do when the Bumper Sensor is pressed in this project?
+","Drive in reverse for 200 millimeters (mm)."
+"What will trigger this stack of blocks to run?
+","Pressing the R1 button on the Controller"
+"What would trigger spinning the Arm Motor down?
+","The Controller’s L2 button being pressed."
+"When a VIQC team's drivers are ready to participate in a match, what should they do first?
+","Report to the Queuing table"
+"When adding the arm back onto the Workcell, which step should happen first?
+
+","Place the Potentiometer on the base plate at the desired location"
+"When analyzing the data collected in the investigation, which of the following accurately describes the results:","The Motorized Super Car travels the fastest when the large Blue Gear is driving the small Red Gear."
+"When and how can you charge the VEX EXP Battery? Select the best answer.","When the battery is separated from the Brain, you can charge the battery through the USB-C port on the Battery"
+"When beginning to develop a solution for a coding project such as the one in the Detect and Deliver activity, the first step is to:
+","Plan a path for the robot based on the goal of the activity"
+"When building the V5 Clawbot, it is important to:
+","Ensure the Smart Motors are oriented in the correct direction."
+"When can a team handle their robot during a VIQC match? Select the best answer.
+","All of the above"
+"When coding a robot to turn, why might a “wait for” block be useful?","To ensure the momentum of the robot stops for accurate movement after the turn block."
+"When coding with the Drivetrain blocks, what must happen first?","A Drivetrain must be configured first."
+"When connecting the cord from the Battery to the Switch or the Motor to the Switch, how do you know they are connected securely?","The cord will click."
+"When do Drivetrain blocks become available in a VEXcode EXP project?","After the robot is configured within the VEXcode EXP software"
+"When do Drivetrain blocks become available in a VEXcode IQ project?","After the robot is configured within the VEXcode IQ software"
+"When getting ready to build the Speedbot what should you do first?
+","Gather all the parts needed by referring to the Parts Needed page in the Seek section."
+"When pressed, the Bumper Sensor returns a value of 1.
+",True
+"When removing the claw from the Simple Clawbot, which of the following can help you remove pins and pry pieces apart?",Battery
+"When testing a robot design in the "develop solutions" phase of the engineering design process, you should ______.","change only one variable at a time so you can clearly see its impact"
+"When the 123 Robot and Coder are paired, ______.
+","lights on the robot and Coder flash in time, and the robot plays a 'connected' sound"
+"When updating the V5 Robot Brain’s Firmware what is the first step to ensure the firmware updates correctly?
+","Connect the robot brain to the computer so it appears in VEXcode V5."
+"When used to assess learning about VEXcode GO, the "Block model" evaluates student understanding of ______.
+","the structure and function of blocks"
+"When will the EXP robot turn right in this VEXcode EXP project?
+","After the stack of blocks attached to the {When I receive} block is completed"
+"When will the robot stop driving in this example?","When the Bumper Switch is pressed"
+"When will the VR Robot move the VR Pen up?
+","After the [Repeat] block has repeated all of the blocks inside of it twice"
+"When will this VEXcode EXP project draw a red rectangle on the Brain's screen?
+","When the [Broadcast and wait] block is executed"
+"When would you use a Boolean condition in a VEXcode IQ project?","To utilize sensor feedback in the project"
+"When would you use a [Forever] block in a VEXcode IQ project?","To continually check whether a condition is TRUE or FALSE"
+"When you need help with a project or example, how can you get help within VEXcode V5? ","Go to the tutorials or help menu tabs for additional in-application assistance."
+"When your build is deconstructed and the pieces returned to the VEX GO Kit, it is a good habit to ________________ before putting the Kit away.","Look through the clear lid to be sure that the Kit is full and all pieces are present"
+"When your students are building and deconstructing VEX GO builds, it is important to _______________________.","Give every student the opportunity to be a hands-on participant in the process"
+"Where can a VIQC team find help with funding?
+","The Robotics Education & Competition (REC) Foundation"
+"Where can you find example VEX GO coding projects and templates?
+","Cumulative Pacing Guide"
+"Where can you find information about a robot's connected devices and their ports?
+","Device Info or Sensor Dashboard on the Brain"
+"Where can you find information about the Coder cards that are needed in a specific STEM Lab?
+","Environment Setup section of the Summary"
+"Where can you look for error identification when a project will not run in VEXcode VR Python?","The Print Console"
+"Where can you navigate to on the Brain’s screen to observe the current position of the claw motor in degrees?","The Devices screen"
+"Where can you print values with the [Print] block?","The Brain screen"
+"Where do you find a hat block in a project? 
+","At the start of a stack of blocks in a VEXcode VR project."
+"Where in the Wall Maze Playground will the VR Robot stop in this project?
+","Number "1""
+"Where is information about VEX products and services stored, organized, and accessible?
+","The VEX Library"
+"Where is the "Step" function located on the VEX VR interface?
+","In the toolbar between the "Start" and "Stop" buttons."
+"Where must the Drivers remain during a VIQC Teamwork or Driver Skills match unless they're legally interacting with their robot?
+","Driver Station"
+"Where on the VR Robot does the Location Sensor read (X,Y) coordinates from?
+","The front-center of the VR Robot"
+"Which action will add a 90 degree right turn to the 123 Robot’s code?","Pressing the Right button"
+"Which action will erase a project on the 123 Robot?","Shaking the 123 Robot"
+"Which action will make the Arm Motor spin down in this example?","Pressing the Controller’s L Down button"
+"Which action will stop your Coder project?
+","Pressing the Stop button on the Coder"
+"Which action will trigger this stack of blocks to run?","Pressing the R Up button on the Controller"
+"Which action will turn the 123 Robot on?","Pushing the wheels along a surface"
+"Which activity does VEX recommend to help students learn computer science concepts effectively?
+","Hands-on coding with a robot"
+"Which activity is an example of social emotional learning in a STEM Lab? Select the best answer.
+","All of the above"
+"Which activity would best prepare you to teach a STEM Lab in a short amount of time?
+","Reviewing the Goals and Standards, and the Summary of Engage, Play, and Share"
+"Which additional component is required to update firmware on a VEX IQ Brain?","Charged battery"
+"Which additional resource is available in the Teacher versions of the Workcell STEM Labs?
+","Built-in teacher notes and facilitation prompts"
+"Which axis and direction does the arrow in this image represent?
+","The positive y-axis"
+"Which axis is reported by the brain in this project?
+",x-axis
+"Which axis, that spans vertically up and down, is shown in this image of the Workcell?
+",z-axis
+"Which behavior can be coded using the touch buttons on the 123 Robot? Select the best answer.","All of the above"
+"Which behaviors will be repeated in this project?
+","Drive forward for 500 millimeters (mm), Turn right for 90 degrees"
+"Which benefit comes from teaching computer science to young students? Select the best answer.
+","All of the above"
+"Which benefit does a [Repeat] block provide in a project?
+
+","[Repeat] blocks are an efficient way to run a set of behaviors multiple times in a project"
+"Which benefit is provided by teaching computer science with a robot? Select the best answer.
+","All of the above"
+"Which benefit is provided by using a block-based coding paradigm?
+","Resulting code is easy to read"
+"Which benefit is provided by using a block-based programming paradigm?
+","Code is easy to read"
+"Which best describes how the Frog Life Cycle build will be constructed, based on this image from the build instructions?","You will first build the Tadpole, then will adapt the build to create each subsequent phase of the Frog Life Cycle in order until you reach the Adult Frog."
+"Which best describes the purpose of building the frog habitat in conjunction with completing the Frog Life Cycle build?","To give a setting for taking a photo or drawing to document each phase of the Frog Life Cycle build  "
+"Which best describes the purpose of the SPARK layout in STEM Labs?","To provide structured lessons with a low barrier of entry for students, engaging activities with real-world connections, teacher materials for a stress-free implementation, and alignment to core skill and concept standards."
+"Which best describes this project?","The robot will drive forward 20mm and then turn right four times to drive in a square."
+"Which block can be used to make the robot turn 90 degrees to the left and then stop? Select the best answer.","[Turn for]"
+"Which block can be used to make the robot turn 90 degrees to the left? Select the best answer.","[Turn for]"
+"Which block in VEXcode V5 runs the 'if' branch when the condition reports 'true,' and runs the 'else' branch when the condition reports 'false?'
+","[If then else] block."
+"Which block is used to change the speed of the drivetrain?
+","[Set drive velocity]"
+"Which block is used to determine if the Eye Sensor is close to an object?
+","<Found object> block"
+"Which block is used to determine if the LED Bumper is pressed?
+","<Pressing bumper> block"
+"Which block is used to set the color of an LED Bumper?
+","The [Set bumper color] block"
+"Which block reports if the Bumper Switch is pressed?
+","<Pressing bumper>"
+"Which block turns the VR Robot to a given clockwise heading?
+","[Turn to heading]"
+"Which blocks in VEXcode V5 are used to code the Bumper Switch to simulate an emergency stop?
+","{When bumper} and [Activate emergency stop]"
+"Which Boolean reporter block would you use with [Wait until] to create a project that instructs the VR Robot to drive forward until the bumper sensor is pressed in this project?
+","<Pressing bumper>"
+"Which button on the VEX EXP Brain can you press to confirm that the battery is correctly inserted?","Check mark"
+"Which button on the VEX IQ 2nd generation Brain can you press to confirm that the battery is correctly inserted?","Check mark"
+"Which button on the VEX IQ Brain is used to turn on the Brain?
+",Check
+"Which buttons are used on the Controller to manipulate the arm when the built in Drive program is run?","L1 and L2"
+"Which buttons are used on the Controller to manipulate the claw when the built in Drive program is run?","R Up and R Down"
+"Which cable do you use to charge the V5 Controller? 
+","Micro-USB cable
+"
+"Which Coder button do you press to make a Coder card project run one card at a time?
+
+",Step
+"Which color can be displayed on the LED Bumper? Select the best answer.
+","All of the above"
+"Which color can the <Detects color> block detect? Select the best answer.
+","All of the above"
+"Which color will the Touch LED glow based on this project?",Blue
+"Which component is required to teach basic computer science with VEX 123? Select the best answer.
+","A 123 Robot"
+"Which computer science concept can be taught using VEX 123? Select the best answer.
+","All of the above"
+"Which computer science concept can be taught with VEX 123? Select the best answer.","All of the above"
+"Which concept covered in the Workcell Extensions will be new to students?","Turning conveyors"
+"Which describes how you move blocks in the workspace?
+","Select the block and drag"
+"Which describes the process for creating a new Class in the VEXcode VR Licensing System?","Select 'Create Class,' enter the name of the class, and select 'Save changes.'"
+"Which describes the purpose of the Play section of a STEM Lab?","Test and Learn"
+"Which description of the VEX Library is correct?
+","The VEX Library is where information about VEX products and services is stored, organized, and accessible"
+"Which device is configured in this image?
+","A 2-motor drivetrain"
+"Which driver configuration is shown in this image?","Tank Drive"
+"Which drivetrain is pictured here?
+","H Drive"
+"Which EXP piece is used to secure wheels and gears on a shaft?
+","Shaft collar"
+"Which EXP sensor is used with Drivetrain blocks to maintain straight driving and accurate turns?
+","Inertial Sensor"
+"Which factor(s) should you consider when choosing a wheel for your robot?","Wheel traction and diameter"
+"Which feature enables the 123 Robot to interact with its environment?","Eye sensor"
+"Which feature of the VEX GO storage cases helps students and teachers easily find and sort pieces?","Parts locator sheet"
+"Which feature on the VEX EXP Brain indicates the correct way to insert the battery?","A printed arrow on the back of the brain"
+"Which feature on the VEX IQ 2nd generation Brain indicates the correct way to insert the battery?","A printed arrow on the back of the brain"
+"Which feature will run a Coder card project? Select the best answer.
+","The Start button on the Coder"
+"Which foundational computer science concepts can be taught using VEX 123?
+","Sequence, Selection, and Loops"
+"Which gear in this gear train is the driving gear?",1
+"Which gear is the driven gear in this example?",2
+"Which gear train configuration should be used to increase the speed of the driven gear?","A larger gear driving a smaller gear"
+"Which gear train configuration should be used to increase the torque of the driven gear?","A smaller gear driving a larger gear"
+"Which information can be detected and reported by the Optical Sensor? Select the best answer.
+","All of the above"
+"Which information does the Distance Sensor report?","If an object is present and how close it is"
+"Which is NOT a reason to use a condition in a VEXcode VR project?
+","To control the flow of a project."
+"Which kind of block is the <Pressing bumper> block?
+","Boolean reporter block."
+"Which location includes a collection of all VEX GO build instructions, all on one page?",builds.vex.com
+"Which method can be used to delete a block in a project?
+","Context-select (right click or long press) and then choose 'Delete Block'"
+"Which method can be used to share build instructions with students? Select the best answer.","All of the above"
+"Which method of additional help or information is provided within the VEXcode IQ software? Select the best answer.
+","All of the above"
+"Which method of learning computer science concepts is a recommendation for VEX 123?","Integrate hands-on lessons with other subject areas"
+"Which method of providing feedback builds resilience in students to support their use of the engineering design process?","Give specific feedback that is targeted at the project, not at the student"
+"Which method will save a VEXcode EXP project?
+","Select ‘File’ then ‘Save to Your Device’"
+"Which of the following accurately describes a connection between executive function and literacy?","Working memory is needed for decoding new words"
+"Which of the following accurately describes a way that motor skills are involved in literacy learning?","Fine motor skills are needed to turn pages in a book or manipulate a pencil to write"
+"Which of the following accurately describes the goal of the Detect and Deliver Activity?","Code the robot to autonomously drive the robot to pick up cubes anywhere in the “donation drop-off zone” on one side of the Field and deliver them to the “processing zone” on the opposite side of the Field.
+"
+"Which of the following are considerations in determining whether to keep a build or take it apart?","All of the above"
+"Which of the following are examples of executive functioning skills?","Impulse control, following directions and making a plan"
+"Which of the following are examples of manipulators?
+","All of the above"
+"Which of the following best defines a potentiometer?
+","An analog variable resistor, which provides a variable voltage value based on the position of the wiper arm (the piece that moves across the resistive track material) inside of the potentiometer."
+"Which of the following best describes a behavior?
+","Actions performed or to be performed by a robot."
+"Which of the following best describes a pinch point?
+","A point where a moving object comes into contact with another object."
+"Which of the following best describes event-driven programming?
+","Programming that uses triggers to initiate behavior(s) in other parts of the project"
+"Which of the following best describes how the Bumper Switch can be used?
+","To detect collisions and trigger actions
+"
+"Which of the following best describes how the [If then] and <Optical detects color> are used in this code snippet?
+","They are used to trigger the arm to drop the blue disk in the blue drop off location if the Optical Sensor detects a blue colored disk."
+"Which of the following best describes how the [If then] block functions in a VEXcode VR project?
+","It is a "C" block that runs the blocks inside of it if the Boolean condition reports TRUE"
+"Which of the following best describes how to create a project where the VR Robot drives forward until the Bumper Sensor is pressed?
+","Select the [Drive] block, then place the [Wait until] block underneath. Place the <Pressing bumper> Boolean reporter block inside the hexagon in the [Wait until] block."
+"Which of the following best describes how to make the Super Car drive forward?","Turn the Orange Knob counterclockwise, towards the Blue Wheel on the Super Car."
+"Which of the following best describes how to set up a learning center to support student independence?","Display the rules or expectations of the center and activity, and the necessary materials students need to complete the activity, without overwhelming them. "
+"Which of the following best describes how VEX Robotics can be used to teach computer science?","VEX Robotics can be used to facilitate both the decomposition and scaffolding of complex programming tasks."
+"Which of the following best describes one advantage of using the Distance Sensor in the Detect and Deliver Activity?","The Distance Sensor can detect objects at a greater distance than others, like the Optical Sensor."
+"Which of the following best describes the classroom investigation you completed using the Motorized Super Car?","Data was collected on how quickly the Motorized Super Car traveled a set distance using different gear configurations."
+"Which of the following best describes the classroom investigation you completed using the Super Car?","Complete and record data from 5 test trials by measuring how far the Super Car travels with 1, 2, 3, 4, and 5 turns of the Orange Knob."
+"Which of the following best describes the difference between linear and joint movement of the arm on the Workcell?
+","The arm moves in a straight line during linear movement and moves in an arc during joint movement."
+"Which of the following best describes the difference in the adults’ role in guided play vs. free play?","In guided play the adults are a part of the play; in free play adults are on the side, mainly there to ensure safety while children play independently."
+"Which of the following best describes the functionality of the Touch LED?","It displays colors."
+"Which of the following best describes the goal of the 123 Activity shown here?
+","To use the Art Ring to turn the robot into a fish and code it to drive around the Tile without falling off.
+"
+"Which of the following best describes the goal of the Code and Read Lesson? 
+","To introduce students to the computer science concepts of programming language, behavior, and sequence by having them code the 123 Robot to drive over letters of a word.
+"
+"Which of the following best describes the investigation you completed with the Fractions build?","Using VEX GO pieces to create whole number equivalent fractions and drawing and writing these representations, then doing the same for other equivalent fractions."
+"Which of the following best describes the Location Sensor?
+","A built in Sensor that reports the (X,Y) position of the VR Robot"
+"Which of the following best describes the navigation on the Brain’s screen in order to change the driver configuration?
+","From the Home screen navigate to ‘Drive’ and then ‘Controls’
+"
+"Which of the following best describes the navigation on the Brain’s screen in order to change the driver configuration?","From the Home screen navigate to ‘Drive’ and then ‘Controls’"
+"Which of the following best describes the process for adding the Touch LED to the robot configuration?","Select the plug icon, then ‘Add a device,’ select ‘TOUCHLED,’ select a port number, and then select ‘DONE’."
+"Which of the following best describes the project flow in this VEXcode VR project?
+","The project flow will run from the top of the Forever loop down, checking each condition inside of the [If then] blocks.  If the condition is TRUE, the project will execute what is inside of that block. If the condition reports FALSE the project will move to the next [If then] block. This will repeat for all 4 [If then] blocks. Once all [If then] conditions are checked, the project will return to the top of the Forever loop and start again. This pattern will continue forever."
+"Which of the following best describes the purpose of the Click on Spacers in this build?","To allow proper spacing and meshing with the 60T gear and 12T gear"
+"Which of the following best describes the purpose of the diverter on the Workcell?
+","A device to move an object on to or off of a conveyor system."
+"Which of the following best describes the purpose of the Traction Links on this build?","To provide additional grip in order to move objects"
+"Which of the following best describes the role of executive function in skills like persistence, initiative and curiosity?","Executive function gives students the ability to do something productive with these skills, like make a plan and follow through on how to use a new material in the classroom.
+"
+"Which of the following best describes the setup of the Detect and Deliver Activity?
+","Set up a 3 x 4 Field with walls at one end. Mark off two zones with tape - a one-foot area for the donation drop-off site, and a 6-inch area for the donation processing area. The IQ Cubes are placed in the drop-off site, and the robot starts behind the tape in the donation processing area.
+"
+"Which of the following best describes the Share section of a STEM Lab lesson? 
+","Students and teachers come back together to wrap up the lesson, demonstrate their projects, and share their learning with the group
+"
+"Which of the following best describes the steps to creating rules with your students in order? 
+","Brainstorm ideas; Look for commonalities in the brainstorm; Narrow down the rules to a few general rules; Practice the rules by role playing scenarios.
+"
+"Which of the following best describes the trend in the Super Car trial data during this investigation?","The distance traveled increased during trials for 1, 2, and 3 turns, then decreased in trials 4 and 5."
+"Which of the following best describes the use of “and don’t wait” with blocks?
+","To continue to move to the next block in the stack even if the behavior of the non-waiting block is not complete."
+"Which of the following best describes the VEX Robotics Library?
+","A library of how-to articles for helping users with their robot hardware or programming."
+"Which of the following best describes the [Broadcast] block?
+","[Broadcast] blocks trigger robot behaviors"
+"Which of the following best describes the ‘documentation’ portion of the investigation with the Tadpole with Legs build?","The build is placed in the habitat to be photographed or drawn, and then written about from the perspective of the Tadpole with Legs or a scientist observing the Tadpole with Legs in its environment"
+"Which of the following best describes this project?
+","The robot will drive forward for 30mm, open and close the claw, and then drive in reverse to its original position."
+"Which of the following best describes what the ‘Arm Mastering’ example project in VEXcode V5 displays?
+","It displays the potentiometer values on the V5 Brain and indicates if those values are within the predetermined range (PASS) or not within the acceptable range of values (FAIL)."
+"Which of the following best describes when to use an E-stop?
+","If the machine's functioning becomes a hazard to individuals, other machinery, or itself."
+"Which of the following best describes why potentiometers are required to be installed at a certain position and at a certain rotation on the V5 Workcell?
+","To ensure the V5 Workcell knows its ‘home location’ that allows it to operate within its range of motion to prevent damage."
+"Which of the following best describes why you would use hue values with the Optical Sensor in a VEXcode EXP project?","To drive a robot until it detects an object, then detects the color of the object to determine which way to turn"
+"Which of the following best explains this project?
+","The robot continues to drive forward if the timer is still less than 60 seconds but if not, the robot stops driving."
+"Which of the following best explains what a chassis is and its purpose in the robot’s design?
+","A chassis is the structural component of the robot. It contains the drivetrain and allows the robot to be mobile and to include design features used to manipulate objects."
+"Which of the following blocks can be used to spin the Claw Motor open and closed in a set direction for a specific measurement?",B
+"Which of the following blocks is used to lift up the VEX VR Pen?
+","[Move pen] block"
+"Which of the following blocks is used to repeat the blocks inside of it for a set number of times?
+","[Repeat] block"
+"Which of the following blocks reports the X or Y coordinate position of the VR Robot in either millimeters (mm) or inches?
+","(Position of Robot) block"
+"Which of the following blocks reports TRUE when the Eye Sensor is close to an object that has detectable colors, and FALSE when it is not?
+","<Eye Sensor near object> block"
+"Which of the following buttons shown is used to power on the Brain?",C
+"Which of the following cables are used to update the Controller firmware?
+","Smart Cable
+"
+"Which of the following can be used to increase the font size in the Workspace in VEXcode VR Python?","Selecting 'Edit' in the Toolbar, then 'Adjust Font', and 'Font Increase'"
+"Which of the following can you use as a visual indicator of correct indentation in a VEXcode VR Python project?","The guiding lines to the left of the commands in the Workspace"
+"Which of the following components of the Unit Overview can help you communicate what students are learning to families and your classroom community?
+","The Letter Home
+"
+"Which of the following concepts is NOT foregrounded in the Meet Your Robot Story?
+","How to connect the 123 Robot to the VEX Classroom App
+"
+"Which of the following describes a reason why the Location Sensor would be used in a project?
+","To move the VR Robot to a known location"
+"Which of the following describes how the Bumper Sensor works in a VEXcode VR project?
+","It is a switch that reports if it is pressed or released."
+"Which of the following describes how the VR Robot will move in this project on the Grid Map Playground?
+","The VR Robot will turn right 90 degrees then drive forward until the X position is greater than zero. Then, the VR Robot will stop driving"
+"Which of the following describes how the VR Robot will move in this project on the Number Grid Playground?
+","The VR Robot will turn right 90 degrees and drive forward until the X position is greater than 50. Then the VR Robot will drive in reverse until the X position is less than -500, then it will stop driving"
+"Which of the following describes how the VR Robot will move in this project?
+","The VR Robot will drive forward until the Y position is greater than 50 millimeters (mm). Then, the VR Robot will stop driving"
+"Which of the following describes how to open an Example Project in VEXcode VR?","Select "File" and "Open Examples""
+"Which of the following describes the correct process for updating the Controller firmware?
+","Connect the Controller to the V5 Brain via a Smart Cable
+"
+"Which of the following describes the correct process for updating the Controller’s firmware?","Connect the Controller to the device via a USB-C cable, select ‘Update,’ wait for the Controller to update, select ‘OK’ once the Controller has updated"
+"Which of the following describes the process for wirelessly pairing the Controller to the V5 Brain?
+","Connect the Controller to the Brain via a Smart Cable, wait until the tether icon shows on both devices, then remove the Smart Cable
+"
+"Which of the following describes the [Wait until] block?
+","It will not move to the next block until the condition of the Boolean reports TRUE."
+"Which of the following describes why a [Repeat] block would be used in a project?
+","To save space and time for blocks that repeat more than once in a project"
+"Which of the following describes why you would use an [If then] control block with a [Forever] block?
+","To continuously check a condition"
+"Which of the following does not help foster a classroom environment in which students' persistence can develop?","Praising students for getting high test grades"
+"Which of the following drivetrains is omni-directional and has a “Good” rating for the ability to go over an obstacle?
+",Mecanum
+"Which of the following explains why the position and angle of the Vision Sensor are important?
+","The Vision Sensor’s snapshots need to capture what is in front of the robot from a good vantage point and in an upright and horizontal position."
+"Which of the following is a benefit of block-based programming?
+","Block-based programming is easier to read than other programming languages."
+"Which of the following is a common use of the Bumper Switch?","trigger a robot action when pressed or released"
+"Which of the following is a feature of the Playground window?
+","All of the above"
+"Which of the following is a function of the Distance Sensor?","Detect the distance between the sensor and an object"
+"Which of the following is a function of the Optical Sensor?","Color detection"
+"Which of the following is a reason for using the Eye Sensor in a project?
+","To detect when the VR Robot is near an object"
+"Which of the following is a reason to use a condition in a VEXcode VR project?
+","To control the flow of a project when using blocks from the Control category by allowing the project to optionally run a section of code based on the evaluation of a Boolean condition."
+"Which of the following is a way to save a VEXcode EXP project in app-based VEXcode EXP?","Selecting the name area and naming the project"
+"Which of the following is a way to save a VEXcode IQ project in app-based VEXcode IQ?","Selecting the name area and naming the project"
+"Which of the following is an acceptable parameter for the [Repeat] block in this project?","The number 4"
+"Which of the following is an accurate reading of this dashboard?
+","The motor is spinning very fast and there must be little to no resistance because torque is registering as very low or zero."
+"Which of the following is an example of a facilitation question you could ask to help students understand the concept of a behavior during this Lesson? 
+","Your robot drove to the first letter of your word, what behaviors does it need to do next to help you finish the word?
+"
+"Which of the following is an example of a motor skills development milestone in infants and toddlers?","Rolling over"
+"Which of the following is an example of a recent advancement in Educational Robotics that has made computer science more accessible for students?","Lowering the cost of Educational Robotics and increasing their ease of use"
+"Which of the following is an example of cognitive flexibility?","Understanding that a vowel can make different sounds in different contexts"
+"Which of the following is an example of differentiation in the Robot Parade Activity setup?
+","Adjusting the parade route to meet students’ needs
+"
+"Which of the following is an example of how motor, spatial, or executive function skills influence students’ non-academic skills?
+","All of the above"
+"Which of the following is an example of how STEM Labs are flexible?","All of the above"
+"Which of the following is an example of how you could differentiate literacy instruction within the Code and Read Lesson? 
+","Adjust the length and complexity of the words written on the Tiles to offer appropriate challenges for students
+"
+"Which of the following is an example of the foundational cognitive skills involved in working collaboratively with VEX 123 or VEX GO?","Impulse control and cognitive flexibility are involved in taking turns and seeing another student do something in a way that might differ from your own idea"
+"Which of the following is an example of the recommendation to be part of the conversation?
+","The teacher visits each team at different points during the project to ask where they are, what they are currently working on, and how they plan to finish the project."
+"Which of the following is coded to simulate an emergency stop button on the Workcell?
+","Bumper Switch"
+"Which of the following is FALSE about the Letter Home in the Unit Overview?","The Letter Home is designed for teachers to use as a summative assessment for a STEM Lab Unit"
+"Which of the following is NOT a benefit of a block-based codng paradigm for students of all coding levels?
+","Professional Experience"
+"Which of the following is not a benefit of using VEX 123 to teach literacy?","The 123 Robot will read sight words aloud to students"
+"Which of the following is NOT a category of VEX Robotics Knowledge Base for VEXcode VR?","Challenge Features"
+"Which of the following is NOT a category of VEX Robotics Library for VEXcode VR?
+","Challenge Features"
+"Which of the following is NOT a cognitive process that underlies spatial learning? ","Collaborative decision making"
+"Which of the following is NOT a consideration when using the Art Ring with the 123 Robot? 
+","How colorful your Art Ring creation is
+"
+"Which of the following is NOT a Controller troubleshooting technique?
+","Attaching and mounting Bumper Switches"
+"Which of the following is NOT a feature of the VR Robot?","The VR Robot has four Bumper Sensors."
+"Which of the following is NOT a math skill that involves spatial reasoning and executive function?","Memorizing addition facts"
+"Which of the following is NOT a name of a division in VEX Robotics Competitions?
+","VEX Primary "
+"Which of the following is NOT a part of the VEX V5 Bumper Switch?","The built-in LED lights for display purposes"
+"Which of the following is NOT a place in STEM Labs where troubleshooting help can be found?
+","VEX forums"
+"Which of the following is NOT a possible competition funding option?
+","Online completion challenges"
+"Which of the following is NOT a quality of a VEX 123 Activity?
+","They require extensive classroom prep
+"
+"Which of the following is NOT a reason to teach literacy using VEX 123?
+","Teaching with 123 will instantly improve students’ standardized test scores
+"
+"Which of the following is NOT a resource available while building a VEX IQ Clawbot?
+","Screwdrivers and additional screws"
+"Which of the following is NOT a sensor of the VR Robot?
+","Touch LED Sensor"
+"Which of the following is not a social emotional learning skill?","Phonemic awareness"
+"Which of the following is not a strategy teachers can use to help reduce students’ cognitive load?","Placing attractive posters around the classroom"
+"Which of the following is NOT a strategy to foster executive function?","Adding a lot of visual posters and loud sounds to a learning center to give students more to pay attention to as they work"
+"Which of the following is NOT a technique for improving the stability of a chassis by stiffening it to be more rigid?
+","Using plates as structural components for the chassis"
+"Which of the following is NOT a type of manipulator?
+",Holonomic
+"Which of the following is NOT a way that students practice foundational skills while building from build instructions?","Cognitive flexibility is needed to follow instructions in order"
+"Which of the following is not a way that VEX 123 can help students practice social emotional learning skills?","By answering workbook questions"
+"Which of the following is NOT a way to delete block(s)?
+","Select "File" and "Delete"."
+"Which of the following is NOT a way to tune the Vision Sensor?
+","Renaming the Vision Sensor."
+"Which of the following is NOT an advantage of using a Motion Planning Printable with students?
+","It is rote practice at identifying touch button behaviors with no practical application
+
+
+"
+"Which of the following is NOT an example of a REC Foundation Competition program?
+","VEX Elementary (elementary school)"
+"Which of the following is NOT an example of additional help or information provided within the VEXcode V5 software?
+","VEX Robotics Library articles"
+"Which of the following is NOT an example of differentiating the robot number line lesson for your students? 
+","Having all students do the same sums at the same time as a whole group for the whole lesson
+"
+"Which of the following is NOT an example of how VEX 123 can support mathematical thinking?
+","Memorizing math facts
+"
+"Which of the following is NOT an option on the V5 Brain screen home page? 
+","Radio Data"
+"Which of the following is NOT found on the Summary page of a VEX 123 STEM Lab?
+","A Letter home to families
+"
+"Which of the following is NOT included in the umbrella of executive function?",Handwriting
+"Which of the following is NOT one of the main roles for students at a competition?
+",Mentor
+"Which of the following is NOT one of the three recommendations given for being a positive facilitator?
+","Mentor students closely and directly instruct whenever needed."
+"Which of the following is NOT part of the process for pairing or calibrating a Controller?
+","Attaching a Smart Motor to the V5 Brain using a Smart Cable."
+"Which of the following is NOT something students practice while building a Features Chart, as shown in this Lesson? 
+","How to code the 123 Robot in VEXcode 123
+"
+"Which of the following is NOT something to consider when designing a robot for competition?
+","Should the robot’s wheels be different colors?"
+"Which of the following is NOT true about Alliances?
+","They can be changed at any time."
+"Which of the following is NOT true of play in relation to students’ learning?","Play is important for early childhood development, but has no bearing on learning in the adolescent years."
+"Which of the following is NOT true of the Play section of a STEM Lab lesson? 
+","There is no flexibility in how the activity is to be taught
+"
+"Which of the following is one purpose of documenting as you develop a project? 
+","To aid in data-based decision making
+"
+"Which of the following is one reason to use a Distance Sensor?","See the same behavior of the robot regardless of starting position"
+"Which of the following is one way to log into VEXcode VR using a Class Code?","Enter the Class Code into the space provided on the Splash Screen and select 'Submit.'"
+"Which of the following is recommended after updating the firmware on your 123 Robot?","Renaming the robot in the Classroom App and on the actual robot itself
+"
+"Which of the following is required to log into a VEXcode VR subscription?","A Class Code"
+"Which of the following is the best definition for troubleshooting?
+","The process of identifying why something does not work effectively and making suggestions on how to improve it."
+"Which of the following is the best description for the type of block shown in the picture?","Reporter block"
+"Which of the following is the best description for the type of block shown?
+","Stack block."
+"Which of the following is the best description for the use of the Disk Feeder?
+","Allows multiple disks to be dispensed onto the Workcell in an autonomous fashion."
+"Which of the following is the best description of joint movement?
+","The robot’s path follows the shortest possible arc between two known points."
+"Which of the following is the best description of stack blocks?
+","They perform the main commands and are shaped to attach above or below other blocks"
+"Which of the following is the best description of the [Drive for] block?
+","Moves the VR Robot forward or backwards a specific distance."
+"Which of the following is the best description of the [Turn for] block?
+","Turns the VR Robot left or right a specific amount of degrees."
+"Which of the following is the best description of what the VR Robot will do based on this project?
+","The VR Robot will drive forward 1000 millimeters (mm) at maximum velocity. It will turn right 180 degrees, set velocity back to the default, and drive forward 1000 millimeters (mm)."
+"Which of the following is the best example of a helpful Robot Rule for students? 
+","Treat the robot with respect and use it responsibly. 
+"
+"Which of the following is the best example of using VEX Robotics Knowledge Base articles?","Provide specific information on VEXcode VR and VR Robot features"
+"Which of the following is the best example of using VEX Robotics Library articles?
+","Provide specific information on VEXcode VR and VR Robot features"
+"Which of the following is the best example of why the Touch LED would be used?","To provide visual feedback"
+"Which of the following is the best explanation for the use of the [Wait] blocks in this project?
+","To easily view the behavior of the arm as each [Joint move] block is run."
+"Which of the following is the best explanation for why the arm is coded to return to Point 1 after picking up the disk?
+","To ensure that the arm clears the standoffs of the pick up location before moving to the drop off location."
+"Which of the following is the best explanation of the benefits of a block-based programming paradigm?","Block-based programming languages are easier to read, reduce or eliminate the need for memorization, and do not require typing or spelling skills."
+"Which of the following is the best reason for using a C block in a VEXcode VR project?
+","To loop the block(s) within them or check if a condition is TRUE or FALSE."
+"Which of the following is the best reason to change the size of blocks to be smaller?
+","To get all of the blocks on the screen at the same time."
+"Which of the following is the best reason to use a [Forever] block in a VEXcode VR project?
+","To continually check if a condition is TRUE or FALSE in a project"
+"Which of the following is the best reason to use the Bumper Sensor?
+","To instruct the VR Robot to use information from its environment (e.g Did I collide with a wall?), and then make decisions based on that information (e.g. Stop when it collides with a wall)."
+"Which of the following is the best reason why VEXcode VR can help teachers and students in an educational setting?","All of the above"
+"Which of the following is the controller for the Workcell?
+","The V5 Brain"
+"Which of the following is the correct process for configuring a device?","Open the configuration tab in VEXcode V5, select the device, select the appropriate settings, and then click Done."
+"Which of the following is the correct process for identifying and updating the robot’s firmware?","Ensure the Brain is connected to the computer, check the status of the Brain icon in VEXcode V5, select the “Out Of Date” button from the Brain’s drop-down menu, wait while the firmware updates, power cycle the Brain, then check to ensure the Brain icon is now green."
+"Which of the following is the recommended sequence for attaching the Vision Sensor to the Clawbot?
+","Secure the gusset into the back of the Vision Sensor using two screws. Then screw one side of the standoff into the gusset and the other side into the beam of the claw arm’s wall. Use a Smart Cable to connect the Vision Sensor to the Robot Brain."
+"Which of the following is true about building the Clawbot?","The Clawbot adds an arm and claw addition to an already built BaseBot"
+"Which of the following is true about building the Simple Clawbot?","Which of the following is true about building the Simple Clawbot?"
+"Which of the following is TRUE about creating classes in the VEXcode VR Licensing System?","Classes can be created by selecting 'Create Class,' entering the name of the class, and selecting 'Save changes.'"
+"Which of the following is true about documenting your learning in the Detect and Deliver course?
+","You will use the course thread in the PD+ community to document your learning throughout the course, as well as to share ideas with other course participants.
+"
+"Which of the following is true about educational robotics?","It can be used as a medium to engage students in problem finding, problem construction, problem analysis, planning and monitoring of solutions, and ultimately problem solving. "
+"Which of the following is TRUE about Offline VEXcode VR?","Offline VEXcode VR is available for download with a VEXcode VR subscription."
+"Which of the following is true about the VEX Robotics Competition’s challenge?
+","The challenge changes each year/season and therefore so do the rules, skills, and goals."
+"Which of the following is true about this project?","The robot will drive forward 30mm at its default velocity and then drive in reverse at a higher velocity, making the robot travel in reverse faster than it traveled forward."
+"Which of the following is true of charging the V5 Robot Battery?
+","The battery will fully charge in approximately 60 minutes alone, or in approximately 90 minutes if connected to the V5 Robot Brain."
+"Which of the following is true?
+","The Clawbot is an extension of the Speedbot build."
+"Which of the following is used in a project to not only help organize the code, but also allows a user to plan out the overall goal of the project before beginning?
+","Comments and notes"
+"Which of the following is used to update the firmware of the 123 Robot?
+
+","VEX Classroom App
+"
+"Which of the following occurs when the arm motor direction is changed from ‘Forward’ to ‘Reverse?’","The L1 and L2 buttons are reversed"
+"Which of the following occurs when the claw motor direction is changed from ‘Forward’ to ‘Reverse?’","The R Up and R Down buttons are reversed"
+"Which of the following options best describes the acceptable range of the potentiometer values for Joint 1 used while mastering?
+","1600 - 2000"
+"Which of the following resources can help you make the story more interactive as you are reading to your students? 
+","Meet Your Robot Teacher’s Guide
+"
+"Which of the following sections of the Fun Frogs STEM Lab offers discussion prompts that you can use with students after completing the Froglet phase of the build?","Mid-Play Break"
+"Which of the following sensors can be used to detect an object, but cannot detect the color of an object?","Distance Sensor"
+"Which of the following should be used in order to properly lubricate the Turntable on the VEX V5 Workcell?
+","White lithium grease"
+"Which of the following skills or practices is NOT involved in spatial reasoning?","Memorizing math facts"
+"Which of the following statements about documentation is true:
+","Documentation can include words, images, path planning, changes made during iteration and their effects, and ideas for optimization.
+
+"
+"Which of the following statements about Engineering Notebooks is true?
+","Engineering Notebooks are personal and should be created in a way that works best for the author.
+"
+"Which of the following statements about the Detect and Deliver Activity is true?","The robot must be able to pick up cubes no matter where they are placed in the “donation drop-off zone”.
+"
+"Which of the following statements about the Elimination Matches is true?
+","Red Alliances and Blue Alliances face off against each other in a “ladder” format; the winning alliance moves on to the next round"
+"Which of the following statements about the project is true?
+","The robot will drive forward until the Bumper Switch is pressed."
+"Which of the following statements is incorrect?
+","Educational Robotics should only be limited to traditional STEM classroom settings."
+"Which of the following statements is NOT true about this project?
+","The robot only has one Bumper Switch."
+"Which of the following statements is TRUE of coding the 123 Robot in an activity like Robot Parade?
+","Students should code their project in smaller chunks, testing their project and adding to it as they go.
+"
+"Which of the following steps are important to keep in mind when a situation arises in the classroom where troubleshooting will be needed?
+","Identify all possible causes for the error."
+"Which of the following steps are part of activating a VEXcode VR Enhanced or Premium license?","All of the above"
+"Which of the following steps will help ensure accurate data collection during the course of this investigation?","Taping the measuring device to the surface and placing a piece of tape on the surface to show where to line up the ramp for each trial"
+"Which of the following type of drivetrain would be the best choice for a competition setting that would require the robot to travel over obstacles and avoid getting push laterally?
+","Standard Drive"
+"Which of the following will cause a Touch button project to be erased? 
+","Shaking the robot until you hear the erasing sound
+"
+"Which of the following would be the best comment to describe this project?
+","Drive the VR Robot in a square"
+"Which of the following would result in the VR Robot driving in a square?
+","Drive forward for 200 millimeters (mm), turn right 90 degrees, Drive forward 200 millimeters (mm), turn right 90 degrees, drive forward 200 millimeters (mm), turn right 90 degrees, drive forward 200 millimeters (mm)."
+"Which of these best describes a programming language?
+","A set of rules where symbols represent actions."
+"Which of these blocks can NOT be used as either a waiting or non-waiting block?
+","[Stop driving]"
+"Which of these colors can the Eye Sensor detect using the <Detects color> block? Select the best answer.
+",Red
+"Which of these describes the ‘Child in Context’ View of School Readiness?","Looking at the opportunities the child has and has not had, and using that information to decide what the child needs"
+"Which of these is a way to store values in rows and columns in a VEXcode V5 project?
+","2D list"
+"Which of these is best described as something “used to store values in a project?”
+",Variable
+"Which of these is NOT a feature of the VEX Robotics Library?","Articles are only displayed when their key terms are searched."
+"Which of these is NOT a needed part for mounting and wiring a Bumper Switch?
+","A Flat-head Screwdriver"
+"Which of these is the best description of a User Interface (UI)?
+","A method to allow a user to interact with a computer system (or machine) to provide input or observe outputs."
+"Which of these is the best description of how My Blocks are used in a VEXcode V5 project?
+","To create a sequence of blocks that can be used multiple times throughout a project"
+"Which of these is the best description of the 'Arm Manual Movements' example project?
+","A continuous display of the current position of the arm on the Brain's screen and allow you to manually move the arm on the Workcell."
+"Which of these is the best description of the V5 Optical Sensor?
+","A sensor used to detect the color of an object as well as if an object is near or far away from the sensor. "
+"Which of these statements best describes the relationship between a driving gear and a driven gear?","A driving gear provides the power (input) and turns the driven (ouput) gear"
+"Which pair of roles is filled by student team members at a VIQC event?
+","Driver and Pit Crew"
+"Which parameter could be used for the [Repeat] block in this project?
+","The number 4"
+"Which part of the block do you select to change the direction of the [Drive for] block?
+",B
+"Which part of the Pin Tool is used to pry GO pieces apart?",B
+"Which part of the Pin Tool is used to pull pins?",C
+"Which part of the Pin Tool is used to push pins?",A
+"Which path will the Code Base follow based on the code?
+",D
+"Which piece in the VEX EXP Kit is used to keep mechanisms positioned correctly?
+",Spacer
+"Which piece, shown here, is used to tighten screws without needing a wrench or pliers?
+","1 post standoff retainer"
+"Which Planning Resource maps VEX EXP STEM Labs to standards?
+","Where and How Standards are Reached"
+"Which planning resource on camps.vex.com provides information like attendance policies, how to respond to incidents, and how to facilitate camp?","Camp Manual Template
+"
+"Which ports on the VEX V5 Brain are used to connect the Bumper Switch?","The 3-wire ports A through H"
+"Which programming language is supported in VEXcode EXP? Select the best answer.
+",Python
+"Which question or set of questions best supports student learning with the engineering design process?
+","Is there another way to solve this problem? What else could you try?"
+"Which question or set of questions best supports student learning with the engineering design process?","Is there another way to solve this problem? What else could you try?"
+"Which range of VEX EXP battery charge is indicated by 4 green lights?",75-100%
+"Which range of VEX IQ battery charge is indicated by 4 green lights?",75-100%
+"Which range of VEX V5 Battery charge is indicated by 3 green lights?
+",50-75%
+"Which resource can be found in the Teacher's Portal of VEX EXP STEM Lab Units? Select the best answer.
+","All of the above"
+"Which resource can be found in the Teacher's Portal of VEX IQ (2nd gen) STEM Lab Units? Select the best answer.","All of the above"
+"Which resource can be used to give students voice and choice in showing what they have learned in a STEM Lab?
+","Choice Board"
+"Which resource can best be described as the online teacher's manual for VEX 123?
+","VEX 123 STEM Labs"
+"Which resource can help identify parts while building a VEX EXP Clawbot? Select the best answer.
+","All of the above"
+"Which resource can support educators in teaching VEX 123? Select the best answer.
+","All of the above"
+"Which resource evaluates student comprehension of the build process?
+","Sample Build Rubric"
+"Which resource evaluates student comprehension of the structure and function of GO pieces?
+","Build Component Worksheet"
+"Which resource helps to keep students and teachers on the same page about STEM Lab activity goals?
+","Videos and animations"
+"Which resource is best used to develop a plan for using VEX GO in the classroom?
+","Cumulative Pacing Guide"
+"Which resource is designed to be shared with families so they can learn about what their student is doing with VEX 123 at school?
+","Letter Home"
+"Which resource is provided to help educators communicate STEM Lab goals with families?
+","Letter Home"
+"Which resource is used to help develop a plan for using VEX GO in the classroom? Select the best answer.
+","All of the above"
+"Which resource provides a summary of each STEM Lab as well as links to additional resources to help educators get started?
+",TeachCTE.vex.com
+"Which resource shows how VEX 123 Activities and STEM Labs can be used together?
+","Cumulative Pacing Guide"
+"Which resource supports educators in teaching VEX GO? Select the best answer.
+","All of the above"
+"Which resource would best help teachers explain the function of individual Coder cards to students?
+","The Coder card Reference Guide"
+"Which resources can be found in the teacher section for SPARK STEM Labs?","Preview, pacing guide, and letter home"
+"Which robot behaviors would be next in a sequence to drive the 123 Robot to numbers 6 then 7?
+","Drive forward 1 step, Turn right 90 degrees, Drive forward 1 step
+"
+"Which role is an adult allowed to fill on a VIQC team? Select the best answer.
+",Coach
+"Which scenario allows students to engage with computer science without using a computer or other device? Select the best answer.","Coding using the 123 Robot or Coder"
+"Which scenario describes a way the LED Bumper could be used in a project?
+","When the LED Bumper is pressed, the Code Base drives in reverse"
+"Which section of a STEM Lab should you review while getting ready to teach the Lab? Select the best answer.
+","All of the above"
+"Which section of the STEM Lab engages students in guided discussions to reflect on their learning during the Lab?
+","Share
+"
+"Which section of the Unit Overview offers information about how the Lab can be adapted to implement it in less time, extend the lesson, or reteach concepts from the lesson? 
+","Pacing Guide 
+"
+"Which section provides details about how VEX GO applies to the concepts being taught in the STEM Lab?","Applying VEX GO"
+"Which section provides teachers with additional details about the context and concepts of a STEM Lab?
+","Background Information"
+"Which sentence correctly describes VEX 123 STEM Labs?
+","STEM Labs offer a flexible way to implement educational robotics in your setting"
+"Which sequence of commands will drive the Code Base to the fish?
+","Drive forward 300 mm; Turn left 90 degrees; Drive forward 350 mm"
+"Which set of elements is part of each VEX IQ SPARK STEM Lab?","Seek - Play - Rethink"
+"Which set of resources is included in the Meet Your Robot STEM Lab?","Meet Your Robot Storybook PDF and Teacher Guide"
+"Which set of resources might be useful when building a VEX EXP Clawbot?
+","Build instructions, parts poster, and printable parts ruler"
+"Which set of resources might be useful while building a VEX IQ Clawbot?
+","Build instructions, parts poster, and printable parts ruler"
+"Which set of steps describes the process for pairing and calibrating a VEX IQ (1st gen) Controller?","Connect your Controller to the Brain, select the 'Calibrate' option on the Brain, rotate the Joysticks to calibrate them "
+"Which software is used to update firmware and create code for the VEX EXP Brain?","VEXcode EXP"
+"Which software is used to update firmware and create code for the VEX V5 Brain?","VEXcode V5
+"
+"Which software package is used to update firmware and create code for the VEX IQ Brain?","VEXcode IQ"
+"Which source could a VIQC team consider for funding? Select the best answer.
+","All of the above"
+"Which statement about accessing VEXcode EXP is correct?
+","App-based VEXcode EXP can be installed on most devices"
+"Which statement about accessing VEXcode EXP is correct? Select the best answer.
+","All of the above"
+"Which statement about accessing VEXcode IQ is correct?
+","App-based VEXcode IQ can be installed on a device, and the web-based version can be accessed on a Chrome-based browser"
+"Which statement about app-based VEXcode IQ is correct? Select the best answer.
+","App-based VEXcode IQ can be installed on a Mac, Android, or Windows device"
+"Which statement about block-based coding is correct?
+","Block-based coding does not require strong typing or spelling skills"
+"Which statement about block-based programming is correct?
+","Block-based programming does not require strong typing or spelling skills"
+"Which statement about choosing wheels is correct?
+","Wheels should match the task you want your robot to complete"
+"Which statement about choosing wheels is correct?","Wheel size and traction are important factors to consider"
+"Which statement about conditions in a VEXcode EXP project is correct?
+
+","Conditions always report a TRUE or FALSE value"
+"Which statement about educational robotics is correct?
+","Educational robotics improves 21st-century skills such as collaboration, communication, computational thinking, and troubleshooting"
+"Which statement about educational robotics is correct? Select the best answer.
+","All of the above"
+"Which statement about gear trains is correct?","In a gear train, the driving gear provides the power (input) and the gear being turned (output) is the driven gear"
+"Which statement about learning computer science with 123 is correct?","Making mistakes and iterating to solve a problem are part of learning computer science"
+"Which statement about teaching computer science to young students is correct? Select the best answer.
+","It enables them to be creative and bring their digital creations to life"
+"Which statement about text-based coding in VEXcode IQ is correct?
+","VEXcode IQ supports C++ and Python programming languages"
+"Which statement about the coding languages supported in VEXcode EXP is correct?
+","VEXcode EXP supports C++ and Python programming languages in addition to block-based coding"
+"Which statement about the Driver Control Program is correct?","The Driver Control program allows you to drive a VEX IQ robot using a Controller without any coding"
+"Which statement about the mechanical limits of the V5 Workcell arm is correct?","The arm has a dead zone of 75 degrees due to the Potentiometer on Joint 1"
+"Which statement about the VEX Library is correct?","The search bar remains on every page for follow-up searches"
+"Which statement about the Workcell Extensions is correct?","They are student-facing, editable Google Docs"
+"Which statement about VEX 123 Activities is correct?
+","They are designed to be student-facing or used with STEM Labs"
+"Which statement about VEX GO build instructions is correct?","Build instructions do not require advanced reading skills"
+"Which statement is TRUE for non-waiting blocks?
+","They allow the stack continue even if the block's behavior is not yet complete."
+"Which step is a suggested part of establishing routines with students?
+","Writing or drawing the routine in a poster format"
+"Which step is part of the process for pairing or calibrating a VEX IQ Controller?
+","Select the Calibrate option from the Settings menu on the Robot Brain"
+"Which step is part of the process for pairing or calibrating a VEX IQ Controller?","Select the Calibrate option from the Settings menu on the Robot Brain"
+"Which step is part of the process to configure a device in VEXcode EXP? Select the best answer.
+","All of the above"
+"Which step is part of the process to configure a device in VEXcode IQ?
+","Select the plug icon in the top right of VEXcode IQ"
+"Which step is part of the process to download a VEXcode EXP project to the Brain? Select the best answer.
+","Connect the Brain to the device"
+"Which step is part of the process to pair a Controller to an EXP Brain?
+","Press the Controller power button 2 times while holding down the L-Up and L-Down buttons"
+"Which step is part of the process to update the Brain's firmware?
+","Connect the Brain to a device via a USB cable"
+"Which step is part of the recommended procedure for troubleshooting hardware? Select the best answer.","All of the above"
+"Which step would be part of the "define" phase of the engineering design process when planning strategy for a classroom competition?","Analyzing ways to score points in the competition"
+"Which steps must happen first before entering your license key?","Purchase a VEXcode VR subscription and obtain the license key from your email"
+"Which steps would best help establish a routine for using VEX 123 with your students?
+","Define the steps for a task, draw them on a classroom poster, and practice them"
+"Which strategy is best when getting started with VEX GO?","Start with a simple build that uses just a few pieces"
+"Which task would the VEX Library be most useful for?
+","Searching for an article about how to connect your Brain to VEXcode IQ."
+"Which teaching strategy can be used with the Coder and Coder cards?
+","Have students hold up Coders or Coder cards to check progress during a lesson"
+"Which technique can be used to determine the size of a VEX EXP C-Channel? Select the best answer.","All of the above"
+"Which technique can be used to determine the size of a VEX IQ beam? Select the best answer.","All of the above"
+"Which technique can be used to determine the size of a VEX V5 C-Channel? Select the best answer.","All of the above"
+"Which technique can help you visualize connections in VEX IQ 3D build instructions? Select the best answer.","All of the above"
+"Which technique would be most helpful when planning a route for a VEX EXP robot to follow?","Map out drives and turns on paper before coding them in VEXcode EXP"
+"Which technique would be most helpful when planning a route for a VEX IQ robot to follow?","Map out drives and turns on paper before coding them in VEXcode IQ"
+"Which technique would be most helpful when planning a route for a VEX V5 robot to follow?","Map out drives and turns on paper before coding them in VEXcode V5"
+"Which terms are part of the acronym SPARK?
+","Seek, Play, Apply, Rethink, and Know"
+"Which text-based programming language is supported in VEXcode IQ for both IQ (1st gen) and IQ (2nd gen)?
+",C++
+"Which two sensors are being pointed to on the VR Robot?
+","The Front Eye and Down Eye Sensors"
+"Which type of additional help or information is provided within VEXcode EXP? Select the best answer.
+","All of the above"
+"Which type of charging port is used on the VEX EXP battery & controller?",USB-C
+"Which type of charging port is used on the VEX IQ 2nd generation battery & controller?",USB-C
+"Which type of content is available in the VEX Library? Select the best answer.
+","Information about VEX products and services"
+"Which type of information can the [Repeat] block accept as a parameter? Select the best answer.","Integers or numeric blocks"
+"Which type of match is used to rank teams for VIQC Finals matches?
+","Qualification match"
+"Which type of movement is depicted in this image?
+","Joint movement   "
+"Which type of movement is depicted in this image?","Linear movement"
+"Which type of VEX EXP wheel enables a robot to turn most easily?
+","Omni Directional Wheel"
+"Which value can the Inertial Sensor report?
+","Heading of the robot"
+"Which value is reported by the Inertial Sensor?
+","Orientation of the robot"
+"Which values does the Gyro Sensor report?","Heading and rotation"
+"Which values does the Inertial Sensor report?
+","The robot’s heading, rotation, orientation, and acceleration"
+"Which values does the Inertial Sensor report?","The heading, rotation, orientation, and acceleration of a robot"
+"Which VEX 123 component provides simple exercises that are easy to follow for independent student use?","VEX 123 Activities
+"
+"Which VEX EXP Planning Resource shows the alignment of standards to VEX EXP STEM Labs?","Content Standards"
+"Which VEX GO parts can be used to attach two beams or plates together?","Pins and connectors"
+"Which VEX GO pieces are used to raise the ramp to three different heights?","Orange, Blue, and Yellow standoffs"
+"Which VEX GO resource can be used to differentiate instruction for students? Select the best answer.
+","All of the above"
+"Which VEX IQ drivetrain is omni directional and is created using four wheels angled at the corners?","X Drive"
+"Which VEX IQ drivetrain uses tank treads?","Track Drive"
+"Which VEX IQ Planning Resource maps VEX IQ STEM Labs to standards?","How and Where Standards are Reached"
+"Which VEX IQ Planning Resource shows the alignment of standards to VEX IQ STEM Labs?","Content Standards"
+"Which VEX IQ sensor can detect or report both the brightness of the robot's environment and the proximity and color of an object?
+","Color Sensor"
+"Which VEXcode EXP block is used to display values on the Print Console or Brain?
+",[Print]
+"Which VEXcode GO resource can be used to implement a STEM Lab in less time? 
+","Tutorial videos"
+"Which VEXcode IQ block is used to display values on the Print Console or Brain?",[Print]
+"Who is the best person to contact if you have questions about registering your VIQC team or attending VIQC events?
+","Your REC Foundation Support Manager"
+"Why are the 1 post standoff retainers used when attaching the C-Channel to the BaseBot?","To provide extra support for the connection between C-Channels"
+"Why do the Engage and Play sections of STEM Labs use predictable verbs?
+","To help teachers facilitate project based learning and conversation"
+"Why is an Optical Sensor used in this VEXcode IQ project?
+","To decide whether to turn right or left based on the color of a detected object"
+"Why is coding the robot to move forward and reverse the best activity to start with?","All of the above"
+"Why is it helpful to use the "Step" feature in a project?
+","It allows the user to trace the flow of a project in order to find and fix problems"
+"Why is it important to correctly attach bumper switches to the correct ports? 
+","To ensure that the program and bumper switch will work correctly."
+"Why is it important to correctly sequence commands in a project?
+","To make a project that works as intended."
+"Why is pseudocode included in STEM Labs?
+","In order to help students think conceptually about a challenge before they begin programming."
+"Why is the Competition Template required in a VEX Robotics Competition?","To ensure all robots start and stop at the same time for each portion of the match
+
+"
+"Why is the Devices Screen used after plugging in the Bumper Switch?","To verify that the Bumper Switch was plugged in correctly"
+"Why is the [If then] block nested inside the [Forever] block for this project?
+","Conditions of the [If then] block will be checked continually if nested in a [Forever] block. the VR Robot will use the Down Eye Sensor to continually check for an object"
+"Why is troubleshooting an important skill to teach students?
+","All of the above"
+"Why might you use a Boolean condition in a VEXcode EXP project?
+
+","To utilize sensor feedback in a project"
+"Why might you use a Boolean condition in a VEXcode EXP project?
+","To control the flow of the project"
+"Why might you use a [Forever] block in a VEXcode EXP project?
+
+","To continually check if a condition is TRUE or FALSE in a project"
+"Why might you use a [Repeat] block in a project?
+","To repeat a set of behaviors a specific number of times"
+"Why might you use a [Repeat] block in a project?","[Repeat] blocks give you a more efficient way to repeat behaviors in a project, and help with more complex projects"
+"Why would a Gyro Sensor be used in a VEXcode IQ project?","To maintain straight driving and make accurate turns"
+"Why would a Gyro Sensor be used in a VEXcode IQ project? Select the best answer.
+","All of the above"
+"Why would a [Print] block be used to troubleshoot?","To show what is happening in a project at a specific moment in time"
+"Why would you make a custom V5 Smart Cable?
+
+","For efficient cable management"
+"Why would you use a Boolean condition in a VEXcode IQ project?","To control the flow of the project"
+"Why would you use a Bumper Switch with your robot?
+","The Bumper Switch allows the robot to interact with its environment, and can be coded to cause a behavior when pressed or released"
+"Why would you use a [Repeat] block in a project?","To repeat behaviors a specific number of times"
+"You are trying to add the Bumper Switch in Port A to the robot’s configuration but there isn’t a Bumper Switch listed to add. What do you have to select?
+",3-Wire
+"You can add blocks to a VEXcode 123 project by dragging them into your project from the ______.
+","Toolbox on the left"
+"You can teach with VEX 123 using both STEM Labs and 123 Activities.",True
+"You can use VEX GO to support mathematical thinking by __________ and ___________.","Using math focused builds; practicing spatial reasoning through building"
+"[TRUE/FALSE] The [Spin for] block can be used to code the drivetrain to turn left or right for a specific distance.
+",False
+"______ and _____ are two of the foundational cognitive skills that support literacy learning by helping students do things like focus on the letters and words in front of them and orient their writing on a page.
+","Executive function and spatial reasoning skills
+"
+"______ enable(s) students to code the 123 Robot without a screen.
+","The Coder and Coder cards"
+"______ is a measure of rotational force.",Torque
+"______ will run your Coder card project.
+","Pressing the Start button on the Coder"
+"______ will start a project in VEXcode 123. Select the best answer.","Selecting the Start button in the Toolbar"
+"_____________ is described as the ability for a child’s hands and eyes to work together to guide their movements, and can be a predictor of _____________ .","Visuo-motor integration; math ability"
+"______________, the idea that ‘children learn first with their eyes, bodies, and hands’ is ________ effective at building neural connections and supporting learning.","Embodied learning; more"
+"_______________ can be defined as a set of cognitive processes that influence how we learn, make choices, create plans, and carry out those plans. ","Executive function"
+"_______________________ is a strong predictor of math ability.","Visual motor integration"
+" What does the green Controller icon at the top of VEXcode IQ indicate?"," The Controller’s firmware is up to date"
+" Which of the following describes the correct process for updating the Controller’s firmware?"," Connect the Controller to the device via a USB-C cable, select ‘Update,’ wait for the Controller to update, select ‘OK’ once the Controller has updated"
+"‘Get Started with VEX 123’ is a guide for ______.","setting up VEX 123 in your learning environment"

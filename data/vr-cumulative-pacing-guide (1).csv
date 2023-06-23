@@ -1,0 +1,267 @@
+Activity,Difficulty Level,CS Concept,Description,License Level,Playground,Key Programming Concepts,CSTA Standards
+Distance Drive,1,Program Development,Explore the movement controls of the VR Robot.,Free,Grid Map,"Forward/ Reverse Movement, Turning","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process. 1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Basketball Drills,1,Control,Program the VR Robot to move forward and reverse to various distances.,Free,Grid Map,"Forward/ Reverse Movement, Turning","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Find Your Age,1,Program Development,Navigate the Number Grid Map to find your age using the VR Robot.,Free,Numbered Grid Map,"Forward/ Reverse Movement, Turning","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Color by Number,1,Modularity,Solve classic color by numbers puzzles using your VR Robot.,Enhanced/Premium,Art Canvas +,"Forward/ Reverse Movement, Turning, Drawing with the Pen ","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Winter Holiday Coloring Book,1,Modularity,Use your VR Robot to color in holiday images.,Enhanced/Premium,Art Canvas +,"Forward/ Reverse Movement, Turning, Drawing with the Pen ","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Life Cycles,1,Modularity,"Program your robot to show the life cycles of a butterfly, a frog, and a sunflower",Enhanced/Premium,Art Canvas +,"Forward/ Reverse Movement, Turning, Drawing with the Pen ","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-DA-06:Organize and present collected data visually to highlight relationships and support a claim.
+1B-DA-07: Use data to highlight or propose cause and-effect relationships, predict outcomes, or communicate an idea.
+2-AP-13: Decompose problems and subproblems into parts to facilitate the design, implementation, andreview of programs. 
+2-AP-10: Use flowcharts and/or pseudocode to address complex problems as algorithms. 
+2-AP-13:  Decompose problems and subproblems into parts to facilitate the design, implementation, andreview of programs."
+Color in Fractions,1,Modularity,Color in fractions of a circle with your VR Robot.,Enhanced/Premium,Art Canvas +,"Forward/ Reverse Movement, Turning, Drawing with the Pen ","1B-DA-06: Organize and present collected data visually to highlight relationships and support a claim.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended.
+2-AP-10: Use flowcharts and/or pseudocode to address complex problems as algorithms.
+2-AP-13: Decompose problems and subproblems into parts to facilitate the design, implementation and review of programs"
+Crash Course,1,Modularity,"Program the robot to find the hidden tool, and use it to crash and clear the Castle and the Rocks!",Enhanced/Premium,Castle Crasher +,"Forward/Reverse Movement, Turning, Eye Sensor, Distance Sensor, Timer Value","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process. 
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Crater Collection,1,Program Development,Code the VR Hero Robot to collect samples and rescue the Rover on the Stage 1 Field.,Premium,GO Competition – Mars Math Expedition,"Forward/Reverse Movement, Turning, Motor Controls","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process. 
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+To the Lab!,1,Program Development,Code the VR Hero Robot to deliver samples to the Lab on the Stage 2 Field.,Premium,GO Competition – Mars Math Expedition,"Forward/Reverse Movement, Turning, Motor Controls","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process. 
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Touch Down,1,Program Development,Code the VR Hero Robot to clear the Landing Site and lift the Rocket Ship on the Stage 3 Field.,Premium,GO Competition – Mars Math Expedition,"Forward/Reverse Movement, Turning, Motor Controls","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process. 
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Word Search,2,Program Development,Solve a word search puzzle by highlighting words with your VR Robot.,Enhanced/Premium,Art Canvas +,"Forward/ Reverse Movement, Turning, Drawing with the Pen ","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process. 
+2-AP-13: Decompose problems and subproblems into parts to facilitate the design, implementation and review of programs
+2-AP-10: Use flowcharts and/or pseudocode to address complex problems as algorithms.
+1B-AP-15:Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Number Maze,2,Program Development,Program the VR Robot to move through the Wall Maze stopping on each of the numbered locations.,Free,Wall Maze,"Forward/ Reverse Movement, Turning","1B-AP-08: Compare and refine multiple algorithms for the same task and determine which is the most appropriate.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Letter Maze,2,Program Development,Program the VR Robot to move through the Wall Maze stopping on each of the lettered locations.,Free,Wall Maze,"Forward/ Reverse Movement, Turning, Drawing with the Pen ","1B-AP-08: Compare and refine multiple algorithms for the same task and determine which is the most appropriate.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Snow Much Fun!,2,Program Development,Code the VR Robot to decorate a snowperson using Art Canvas+,Enhanced/Premium,Art Canvas +,"Forward/ Reverse Movement, Turning, Drawing with the Pen ","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process. 
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended.
+"
+Topographic Map,2,Modularity,Fill in elevation areas and draw contour lines on a Topographic Map.,Enhanced/Premium,Art Canvas +,"Forward/ Reverse Movement, Turning, Drawing with the Pen ","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process. 
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Constellation Mapper,2,Modularity,Code the VR Robot+ to create known constellations on the Art Canvas+.,Enhanced/Premium,Art Canvas +,"Forward/ Reverse Movement, Turning, Drawing with the Pen ","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process. 
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended.
+2-AP-13: Decompose problems and subproblems into parts to facilitate the design, implementation and review of programs
+3A-DA-11: Create interactive data visualizations using software tools to help others better understand real-world phenomena. "
+Constellation Creator,2,Modularity,Code the VR Robot+ to design and draw your own constellations.,Enhanced/Premium,Art Canvas +,"Forward/ Reverse Movement, Turning, Drawing with the Pen ","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process. 
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended.
+"
+Where in the World?,2,Modularity,"Practice your mapping skills of continents, states, and countries using Art Canvas+.",Enhanced/Premium,Art Canvas +,"Forward/ Reverse Movement, Turning, Drawing with the Pen ","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process. 
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Navigate the Maze,2,Control,Practice your maze solving skills as you code the VR MazeBot to drive through mazes.,Enhanced/Premium,Wall Maze +,"Forward/ Reverse Movement, Turning, Conditionals","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+"
+On Target,2,Program Development,Hit the bullseye by drawing angles with your robot!,Enhanced/Premium,Art Canvas +,"Forward/ Reverse Movement, Turning, Drawing with the Pen ","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+2-AP-10: Use flowcharts and/or pseudocode to address complex problems as algorithms.
+3A-DA-11: Create interactive data visualizations using software tools to help others better understand real-world phenomena. "
+Draw a House,2,Control,Showcase your artistic skills by programming the VR Robot to draw a house.,Free,Art Canvas,"Forward/ Reverse Movement, Turning, Drawing with the Pen ","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Coral Reef Cleanup,2,Program Development,Help clean the Mangrove Reef by collecting as much trash as you can before the solar-powered batteries on your robot run down. ,Free,Coral Reef Cleanup,"Forward/Reverse Movement, Turning, Sensor, Conditionals, Loops","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.                                                                                                                                                                                                                                                                                                 1B-AP-12: Modify, remix, or incorporate portions of an existing program into one's own work, to develop something new or add more advanced features. 1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Draw Your Initials,2,Algorithms,Program the VR Robot to draw your initials with the Pen.,Free,Art Canvas,"Variables, Drawing with the Pen","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended.
+2-AP-11: Create clearly named variables that represent different data types and perform operations on their values."
+Fuel Frenzy,2,Modularity,Code the VR Hero Robot to deliver fuel cells on the Stage 4 Field.,Premium,GO Competition – Mars Math Expedition,"Forward/Reverse Movement, Turning, Motor Controls","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-12: Modify, remix, or incorporate portions of an existing program into one's own work, to develop something new or add more advanced features.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Mars Math Expedition,2,Modularity,Score as many points as possible in the Mars Math Expedition!,Premium,GO Competition – Mars Math Expedition,"Forward/Reverse Movement, Turning, Motor Controls","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-12: Modify, remix, or incorporate portions of an existing program into one's own work, to develop something new or add more advanced features.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+"
+Score Party 
+",2,Modularity,"
+Program Moby to score as many points as you can!
+",Premium,VRC Virtual Skills - Tipping Point,"Forward/Reverse Movement, Turning","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+"
+Take It and Leave It 
+",2,Modularity,"Pick up disks from the Autonomous Line and the Blue Barrier, and score them in the Low Goal.",Premium,VRC Virtual Skills - Spin Up,"Forward/Reverse Movement, Turning","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+"
+Where to Begin?
+",2,Program Development,Find the quickest path to score from different starting positions.,Premium,VRC Virtual Skills - Spin Up,"Forward/Reverse Movement, Turning","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Spin and Score ,2,Modularity,Score as many points as you can by launching disks into the low goal and spinning the Roller.,Premium,VRC Virtual Skills - Spin Up,"Forward/Reverse Movement, Turning","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+"
+High Achiever
+",2,Modularity,Score as many points as you can by launching disks into both the Low and High Goals.,Premium,VRC Virtual Skills - Spin Up,"Forward/Reverse Movement, Turning","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+"
+Balancing with Moby
+",2,Modularity,Program Moby to move a Mobile Goal and balance on the Platform.,Premium,VRC Virtual Skills - Tipping Point,"Forward/Reverse Movement, Turning","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+"
+Roll it Red
+",2,Control,Use sensors to practice spinning the Roller to red.,Premium,VRC Virtual Skills - Spin Up,"Forward/Reverse Movement, Turning, Optical Sensor","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+"Low Goal, High Goal",2,Program Development,Collect and score balls in the Low and High Goals on the Field.,Premium,VIQC Virtual Skills - Pitching In,"Forward/Reverse Movement, Turning, Motor Controls","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Hang Low,2,Program Development,Navigate around the Hanging Bar and score points with a Low Hang.,Premium,VIQC Virtual Skills - Pitching In,"Forward/Reverse Movement, Turning, Motor Controls","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Dispenser Dash,2,Program Development,Score points by releasing discs from each Dispenser type on the Field.,Premium,VIQC Virtual Skills - Slapshot,"Forward/Reverse Movement, Turning","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+In the Zone,2,Program Development,Explore how to score discs in different Goal Zones to optimize your score.,Premium,VIQC Virtual Skills - Slapshot,"Forward/Reverse Movement, Turning","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Take a Shot,2,Modularity,Dispense and score discs in all Goal Zones on the Field!,Premium,VIQC Virtual Skills - Slapshot,"Forward/Reverse Movement, Turning","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Disk Mover,2,Modularity,Use the electromagnet to pick up and place colored disks into different colored goals to complete challenges.,Free,Disk Mover,"Forward/Reverse Movement, Turning","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.                                                                                                                                                                                                                                                                                                 1B-AP-12: Modify, remix, or incorporate portions of an existing program into one's own work, to develop something new or add more advanced features. 1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Tracing Triangles,2,Program Development,Program the VR Robot to trace triangles and calculate their area and perimeter.,Free,Shape Tracer,"Forward/ Reverse Movement, Turning, Drawing with the Pen, Printing Data","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Tracing Unique Shapes,2,Program Development,Program the VR Robot to trace unique shapes and calculate their area and perimeter.,Free,Shape Tracer,"Forward/ Reverse Movement, Turning, Drawing with the Pen, Printing Data","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Ski-bot,2,Program Development,"Program the VR Robot to ""ski"" down a slope and trace the path it follows with the Pen.",Enhanced/Premium,Art Canvas +,"Forward/ Reverse Movement, Turning, Drawing with the Pen","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process. 
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Neutralizer ,2,Program Development,Locate enemies around the planet and absorb their radiation to neutralize them. ,Premium,Rover Rescue,"Forward/Reverse Movement, Turning, Using the AI","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process. 
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Draw a Triangle with Gyro,2,Modularity,Use the Gyro Sensor and the Pen to draw a triangle with the VR Robot.,Free,Art Canvas," Drawing with the Pen, Gyro Sensor","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended.
+2-AP-11: Create clearly named variables that represent different data types and perform operations on their values."
+"
+Load it and Score
+",3,Control,Intake disks from the Loaders and score them in the Low and High Goals.,Premium,VRC Virtual Skills - Spin Up,"Forward/Reverse Movement, Turning, Distance Sensor","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.                                                                                                                                                                                                                                                                                                 1B-AP-12: Modify, remix, or incorporate portions of an existing program into one's own work, to develop something new or add more advanced features. 1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Robot Dance Party,3,Modularity,"Program the VR Robot to turn, pivot, and spin to create a dance move.",Free,Grid Map,"Forward/ Reverse Movement, Turning ","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-12: Modify, remix, or incorporate portions of an existing program into one's own work, to develop something new or add more advanced features.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Robot Vacuum,3,Algorithms,Program the VR Robot to move like a robotic vacuum.,Free,Grid Map,"Distance Sensor, Conditionals, Operators, Loops","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended.
+2-AP-12: Design and iteratively develop programs that combine control structures, including nested loops and compound conditionals."
+"
+Location, Location, Location
+",3,Program Development,Use the GPS sensor and the coordinate grid to score from different starting positions.,Premium,VRC Virtual Skills - Spin Up,"Forward/Reverse Movement, Turning, GPS Sensor","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+"
+Sensing with Moby 
+",3,Control,Use Moby's sensors to move Mobile Goals and Rings.,Premium,VRC Virtual Skills - Tipping Point,"Forward/Reverse Movement, Turning, Bumper Switch","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Sensing Colors,3,Control,Program the VR Robot to draw and detect different colored lines.,Free,Line Detector,"Forward/ Reverse Movement, Turning, Drawing with the Pen, Eye Sensor","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended.
+3B-AP-12: Compare and contrast fundamental data structures and their uses."
+Counting Lines,3,Algorithms,Program the VR Robot to track the number of black lines detected using variables.,Free,Line Detector,"Forward/ Reverse Movement, Turning, Eye Sensor, Variables, Printing Data","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended.
+2-AP-11: Create clearly named variables that represent different data types and perform operations on their values.
+3A-AP-14: Use lists to simplify solutions, generalizing computational problems instead of repeatedly using simple variables.
+3B-AP-12: Compare and contrast fundamental data structures and their uses."
+Mondrian Patterns,3,"Collections, Visualization and Transformation",Program your VR Robot to create a work of modern art inspired by Mondrian.,Enhanced/Premium,Art Canvas +,"Forward/ Reverse Movement, Turning, Drawing with the Pen ","1B-DA-06: Organize and present collected data visually to highlight relationships and support a claim.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+2-AP-10: Use flowcharts and/or pseudocode to address complex problems as algorithms. 
+2-AP-13: Decompose problems and subproblems into parts to facilitate the design, implementation, and review of programs. 
+3A-DA-11: Create interactive data visualizations using software tools to help others better understand real world phenomena.
+3A-AP-16: Design and iteratively develop computational artifacts for practical intent, personal expression, or to address a societal issue by using events to initiate instructions"
+Disk Color Maze ,3,Algorithms,Program the VR Robot to move through the Disk Maze using the Front Eye Sensor to detect the disk colors.,Free,Disk Maze,"Eye Sensor, Conditionals, Operators, Loops","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended.
+2-AP-12: Design and iteratively develop programs that combine control structures, including nested loops and compound conditionals."
+Color Counting Algorithms,3,Algorithms,Program the VR Robot to detect the color and location of lines.,Free,Line Detector,"Forward/ Reverse Movement, Turning, Eye Sensor, Location Sensor, Printing Data","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended.
+3B-AP-12: Compare and contrast fundamental data structures and their uses."
+Storm the Castle,3,Control,Use the VR Robot to knock the Castle and the surrounding buildings off of the Playground!,Free,Castle Crasher,"Forward/ Reverse Movement, Turning, Eye Sensor, Distance Sensor","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Spiral Drawing,3,Variables,Create a spiral geometric drawing using the VR Robot.,Free,Art Canvas,"Loops, Variables, Drawing with the Pen","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended.
+2-AP-11: Create clearly named variables that represent different data types and perform operations on their values.
+2-AP-12: Design and iteratively develop programs that combine control structures, including nested loops and compound conditionals."
+Coordinate Numbers,3,Modularity,Navigate the VR Robot to a specific position using coordinates.,Free,Numbered Grid Map,"Location Sensor, 2D Lists (arrays)","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended.
+2-AP-12: Design and iteratively develop programs that combine control structures, including nested loops and compound conditionals."
+Hidden Message Maze,3,Control,Drive the VR Robot to solve a maze while tracing the path with the Pen to uncover secret messages.,Enhanced/Premium,Maze Solver ,"Forward/ Reverse Movement, Turning, Distance Sensor, Eye Sensor, Conditionals, Loops","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended.
+2-AP-12: Design and iteratively develop programs that combine control structures, including nested loops and compound conditionals."
+Clear the Enclosure Walls,3,Control,Clear as much of the castle walls as possible without crashing into the castle or falling into the water! ,Enhanced/Premium,Castle Crasher +,"Forward/ Reverse Movement, Turning, Distance Sensor, Eye Sensor, Conditionals, Loops","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended.
+2-AP-12: Design and iteratively develop programs that combine control structures, including nested loops and compound conditionals."
+Cross Every Number,4,Control,Program the VR Robot to cross off each number from 1-100.,Free,Numbered Grid Map,"Loops, Drawing with the Pen","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended.
+2-AP-12: Design and iteratively develop programs that combine control structures, including nested loops and compound conditionals."
+Secret Message,4,Modularity,"Use provided coordinates, the VR Robot, and the Pen to decode a secret message.",Free,Art Canvas,"Location Sensor, 2D Lists (arrays), Drawing with the Pen","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended.
+2-AP-11: Create clearly named variables that represent different data types and perform operations on their values.
+3A-AP-14: Use lists to simplify solutions, generalizing computational problems instead of repeatedly using simple variables.
+3B-AP-12: Compare and contrast fundamental data structures and their uses."
+Crash the Castle,4,Algorithms,Create an algorithm to knock over different Castle layouts using the VR Robot in this constantly changing challenge.,Free,Dynamic Castle Crasher,"Forward/Reverse Movement, Turning, Eye Sensor, Distance Sensor, Timer Value, Conditionals, Loops","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process. 
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended. 
+2-AP-11: Create clearly named variables that represent different data types and perform operations on their values. 
+3A-AP-14: Use lists to simplify solutions, generalizing computational problems instead of repeatedly using simple variables."
+Tracing Polygons,4,Variables,Program the VR Robot to trace polygons and calculate their area and perimeter.,Free,Shape Tracer,"Forward/ Reverse Movement, Turning, Drawing with the Pen, Printing Data","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+Survivalist,4,Algorithms,Keep your mission going for as many days possible as you neutralize enemies and recover mineral samples.,Premium,Rover Rescue,"Forward/Reverse Movement, Turning, Using the AI, Sensors, Conditional, Loops, Algorithms","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-12: Modify, remix or incorporate portions of an existing program into ones' own work, to develop something new or add more advanced features.
+2-AP-13: Decompose problems and subproblems into parts to facilitate the design, implementation and review of programs.
+3A-AP-13: Create prototypes that use algorithms to solve computational problems by leveraging prior students knowledge and personal interests."
+Trash Collection,4,Algorithms,Complete ocean cleaning challenges to collect a specific amount of trash!,Free,Coral Reef Cleanup,"Forward/ Reverse Movement, Turning, Distance Sensor, Eye Sensor, Timer Value, Conditionals, Loops, Printing Data","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-12: Modify, remix or incorporate portions of an existing program into ones' own work, to develop something new or add more advanced features.
+2-AP-13: Decompose problems and subproblems into parts to facilitate the design, implementation and review of programs.
+3A-AP-13: Create prototypes that use algorithms to solve computational problems by leveraging prior students knowledge and personal interests."
+Searching for Minerals,4,Algorithms,Create an algorithm to find and use as many minerals possible during the Rover Rescue.,Premium,Rover Rescue,"Forward/Reverse Movement, Turning, Using the AI, Sensors, Conditional, Loops, Algorithms","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process. 
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended.
+2-AP-12: Design and iteratively develop programs that combine control structures, including nested loops and compound conditionals.
+2-AP-13: Decompose problems and subproblems into parts to facilitate the design, implementation and review of programs.
+3A-AP-13: Create prototypes that use algorithms to solve computational problems by leveraging prior students knowledge and personal interests."
+Sweep the Castle,4,Algorithms,Create an algorithm to clear every Castle building off of the Playground using the VR Robot in this constantly changing challenge.,Free,Dynamic Castle Crasher,"Forward/Reverse Movement, Turning, Eye Sensor, Distance Sensor, Timer Value, Conditionals, Loops","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process. 
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended. 
+2-AP-11: Create clearly named variables that represent different data types and perform operations on their values. 
+3A-AP-14: Use lists to simplify solutions, generalizing computational problems instead of repeatedly using simple variables."
+Dynamic Wall Maze,4,Algorithms,Create an algorithm to navigate the VR Robot through multiple wall mazes in this constantly changing challenge.,Free,Dynamic Wall Maze,"Forward/ Reverse Movement, Turning, Eye Sensor, Distance Sensor, Bumper switch, Conditionals","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process. 
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended. 
+2-AP-11: Create clearly named variables that represent different data types and perform operations on their values. "
+Pixel World Adventure,4,Control,Follow the instructions to create mystery pixel art using loops!,Enhanced/Premium,Art Canvas +,"Forward/ Reverse Movement, Turning, Distance Sensor, Eye Sensor, Loops","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+2-AP-13: Decompose problems and subproblems into parts to facilitate the design, implementation and review of programs.
+3A-DA-09:Translate between different bit representations of real-world phenomena, such as characters, numbers and images"
+Aiming Disks,4,Control,Maximize your score by launching discs into the 4 point Goal Zone.,Premium,VIQC Virtual Skills - Slapshot,"Forward/Reverse Movement, Turning, Sensors, Conditional, Loops, Algorithms","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended."
+"
+VRC GPS Sensor Navigation
+ ",4,Variables,Use the GPS Sensor and the Pythagorean Theorem to design an algorithm to navigate Disco to any location.,Premium,VRC Virtual Skills - Spin Up,"Forward/ Reverse Movement, Turning, Variables, GPS Sensor","1B-AP-08: Compare and refine multiple algorithms for the same task and determine which is the most appropriate.
+1B-AP-09: Create programs that use variables to store and modify data.
+ 2-AP-11: Create clearly named variables that represent different data types and perform operations on their values."
+Face It,4,Variables,Use variables to store information and create different facial expressions!,Enhanced/Premium,Art Canvas +,"Forward/ Reverse Movements, Turning, Variables, Loops, Drawing with the Pen","1B-AP-09: Create programs that use variables to store and modify data.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+2-AP-11: Create clearly named variables that represent different data types and perform operations on their values.
+3A-DA-11: Create interactive data visualizations using software tools to help others better understand real-world phenomena.
+3A-DA-12:Create computational models that represent the relationships among different elements of data collected from a phenomenon or process."
+Maze Solver,5,Algorithms,Create an algorithm using sensors on the VR MazeBot to solve different mazes.,Enhanced/Premium,Wall Maze +,"Forward/ Reverse Movement, Turning, Distance Sensor, Eye Sensor, Loops, Conditionals,Printing Data","1B-AP-08: Compare and refine multiple algorithms for the same task and determine which is the most appropriate.
+2-AP-12: Design and iteratively develop programs that combine control structures, including nested loops and compound conditionals.
+2-AP-13: Decompose problems and subproblems into parts to facilitate the design, implementation and review of programs.
+2-CS-02:  Design projects that combine hardware and software components to collect and exchange data.
+3A-AP-13: Create prototypes that use algorithms to solve computational problems by leveraging prior students knowledge and personal interests."
+Grid Map Spiral,5,Control,Draw a spiral that hits every square on the Grid Map using the Pen.,Free,Grid Map,"Loops, Variables, Drawing with the Pen","1B-AP-10: Develop programs with sequences and simple loops, to express ideas or address a problem.
+1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended.
+2-AP-11: Create clearly named variables that represent different data types and perform operations on their values.
+2-AP-12: Design and iteratively develop programs that combine control structures, including nested loops and compound conditionals."
+Hidden Pixel Art,5,Variables,Use sensors on the VR Robot and 2D Lists (arrays) to discover artwork hidden under a gold colored roof.,Free,Hidden Pixel Art,"Forward/Reverse Movement, Turning, Eye Sensor, Printing Data, 2D Lists (arrays), Monitoring Values, Conditionals, Loops","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process. 
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended. 
+2-AP-11: Create clearly named variables that represent different data types and perform operations on their values. 
+3A-AP-14: Use lists to simplify solutions, generalizing computational problems instead of repeatedly using simple variables."
+Encoded Message,5,Variables,Use sensors on the VR Robot and Lists (arrays) to decode the message represented by binary ASCII characters.,Free,Castle Crasher,"Forward/Reverse Movement, Turning, Eye Sensor, Printing Data, Variables, Monitoring Values, Conditionals, Loops","1B-AP-11: Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process. 
+1B-AP-15: Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended. 
+2-AP-11: Create clearly named variables that represent different data types and perform operations on their values. "
