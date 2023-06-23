@@ -19,6 +19,7 @@ def clear_submit():
     st.session_state["submit"] = False
 
 
+
 st.set_page_config(page_title="VEXGPT", page_icon="", layout="wide")
 st.header("VEX GPT")
 
