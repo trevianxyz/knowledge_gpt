@@ -17,7 +17,7 @@ from knowledge_gpt.embeddings import OpenAIEmbeddings
 from knowledge_gpt.prompts import STUFF_PROMPT
 
 
-@st.experimental_memo()
+@st.cache_data()
 def parse_docx(file: BytesIO) -> str:
     text = docx2txt.process(file)
     # Remove multiple newlines
@@ -25,7 +25,7 @@ def parse_docx(file: BytesIO) -> str:
     return text
 
 
-@st.experimental_memo()
+@st.cache_data()
 def parse_pdf(file: BytesIO) -> List[str]:
     pdf = PdfReader(file)
     output = []
@@ -43,7 +43,7 @@ def parse_pdf(file: BytesIO) -> List[str]:
     return output
 
 
-@st.experimental_memo()
+@st.cache_data()
 def parse_txt(file: BytesIO) -> str:
     text = file.read().decode("utf-8")
     # Remove multiple newlines
