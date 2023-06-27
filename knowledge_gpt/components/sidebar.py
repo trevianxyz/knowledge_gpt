@@ -2,8 +2,9 @@ import streamlit as st
 import pandas as pd
 
 from knowledge_gpt.components.faq import faq
-# from knowledge_gpt.components.new_side import data_df
+from knowledge_gpt.components.new_side import data_df
 # from knowledge_gpt.components.new_data import new_data
+# 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
 
 def set_openai_api_key(api_key: str):
     st.session_state["OPENAI_API_KEY"] = api_key
@@ -22,7 +23,7 @@ def sidebar():
             type="password",
             placeholder="Paste your OpenAI API key here (sk-...)",
             help="You can get your API key from https://platform.openai.com/account/api-keys.",  # noqa: E501
-            value=st.session_state.get("OPENAI_API_KEY", "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"),
+            value=st.session_state.get("OPENAI_API_KEY", "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"),
         )
 
         if api_key_input:

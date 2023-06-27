@@ -18,14 +18,12 @@ from knowledge_gpt.utils import (
 def clear_submit():
     st.session_state["submit"] = False
 
-
-
 st.set_page_config(page_title="VEXGPT", page_icon="", layout="wide")
 st.header("VEX GPT")
 
 sidebar()
 
-uploaded_file = open("data/final-text-dataset.txt", "rb")
+uploaded_file = open("data/Harter_McKenna_elml_2022_2_20_58006.pdf", "rb")
 
 # st.file_uploader(
 #     "Upload a pdf, docx, or txt file",
@@ -45,9 +43,11 @@ if uploaded_file is not None:
         doc = parse_txt(uploaded_file)
     else:
         raise ValueError("File type not supported!")
+    st.cache_data()
     text = text_to_docs(doc)
     try:
-        with st.spinner("Indexing document... This may take a while⏳"):
+        with st.spinner("Indexing document...please be patient."):
+            st.cache_data()
             index = embed_docs(text)
         st.session_state["api_key_configured"] = True
     except OpenAIError as e:
@@ -78,12 +78,15 @@ if button or st.session_state.get("submit"):
         sources = search_docs(index, query)
 
         try:
+            st.cache_data()
             answer = get_answer(sources, query)
             if not show_all_chunks:
                 # Get the sources for the answer
+                st.cache_data()
                 sources = get_sources(answer, sources)
 
             with answer_col:
+                st.cache_data()
                 st.markdown("#### Answer")
                 st.markdown(answer["output_text"].split("SOURCES: ")[0])
 
