@@ -1,25 +1,10 @@
-import streamlit as st
-import pandas as pd
-from st_files_connection import FilesConnection
+# import streamlit as st
 
-"# Streamlit FilesConnection"
+# @st.cache_data  # 👈 Add the caching decorator
+# def load_data(filepath):
+#     df = pd.read(filepath)
+#     return df
 
-"""
-A simple demo for Streamlit FilesConnection.
-"""
+# df = load_data("data/final-text-dataset.txt")
 
-df = pd.DataFrame({"Owner": ["jerry", "barbara", "alex"], "Pet": ["fish", "cat", "puppy"], "Count": [4, 2, 1]})
-
-local, s3, gcs = st.tabs(["Local", "S3", "GCS"])
-
-with local:
-    "### Local Access"
-    with st.echo():
-        conn = st.experimental_connection("local", type=FilesConnection)
-        st.help(conn)
-
-    with st.echo():
-        with st.expander("View the repo license with help from FilesConnection"):
-            license = conn.read('../LICENSE', input_format='text')
-            license
-# conn.open("path/to/file", mode="rb", *args, **kwargs) -> Iterator[TextIOWrapper | AbstractBufferedFile]
+# st.dataframe(df)
