@@ -11,10 +11,9 @@ def set_openai_api_key(api_key: str):
 def sidebar():
     with st.sidebar:
         st.markdown(
-            "## How tnew testo use\n"
+            "## How to use\n"
             "1. Enter your [OpenAI API key](https://platform.openai.com/account/api-keys) below🔑\n"  # noqa: E501
-            "2. Upload a pdf, docx, or txt file📄\n"
-            "3. Ask a question about the document💬\n"
+            "2. Ask a question about these VEX topics:\n"
         )
         api_key_input = st.text_input(
             "OpenAI API Key",

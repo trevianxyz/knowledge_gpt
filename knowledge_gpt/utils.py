@@ -17,7 +17,7 @@ from knowledge_gpt.embeddings import OpenAIEmbeddings
 from knowledge_gpt.prompts import STUFF_PROMPT
 
 
-@st.cache_data()
+
 def parse_docx(file: BytesIO) -> str:
     text = docx2txt.process(file)
     # Remove multiple newlines
@@ -25,7 +25,7 @@ def parse_docx(file: BytesIO) -> str:
     return text
 
 
-@st.cache_data()
+
 def parse_pdf(file: BytesIO) -> List[str]:
     pdf = PdfReader(file)
     output = []
@@ -43,7 +43,7 @@ def parse_pdf(file: BytesIO) -> List[str]:
     return output
 
 
-@st.cache_data()
+
 def parse_txt(file: BytesIO) -> str:
     text = file.read().decode("utf-8")
     # Remove multiple newlines
@@ -51,7 +51,7 @@ def parse_txt(file: BytesIO) -> str:
     return text
 
 
-@st.cache_data()
+
 def text_to_docs(text: str | List[str]) -> List[Document]:
     """Converts a string or list of strings to a list of Documents
     with metadata."""
@@ -84,7 +84,7 @@ def text_to_docs(text: str | List[str]) -> List[Document]:
     return doc_chunks
 
 
-st.cache_data()
+
 def embed_docs(docs: List[Document]) -> VectorStore:
     """Embeds a list of Documents and returns a FAISS index"""
 
@@ -103,7 +103,7 @@ def embed_docs(docs: List[Document]) -> VectorStore:
         return index
 
 
-st.cache_data()
+
 def search_docs(index: VectorStore, query: str) -> List[Document]:
     """Searches a FAISS index for similar chunks to the query
     and returns a list of Documents."""
@@ -113,7 +113,7 @@ def search_docs(index: VectorStore, query: str) -> List[Document]:
     return docs
 
 
-st.cache_data()
+
 def get_answer(docs: List[Document], query: str) -> Dict[str, Any]:
     """Gets an answer to a question from a list of Documents."""
 
@@ -137,7 +137,7 @@ def get_answer(docs: List[Document], query: str) -> Dict[str, Any]:
     return answer
 
 
-@st.cache_data()
+
 def get_sources(answer: Dict[str, Any], docs: List[Document]) -> List[Document]:
     """Gets the source documents for an answer."""
 
@@ -151,7 +151,7 @@ def get_sources(answer: Dict[str, Any], docs: List[Document]) -> List[Document]:
 
     return source_docs
 
-@st.cache_data()
+
 def wrap_text_in_html(text: str | List[str]) -> str:
     """Wraps each text block separated by newlines in <p> tags"""
     if isinstance(text, list):

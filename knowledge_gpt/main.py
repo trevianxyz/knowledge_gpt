@@ -52,7 +52,7 @@ if uploaded_file is not None:
     except OpenAIError as e:
         st.error(e._message)
 
-query = st.text_area("Ask a question about the document", on_change=clear_submit)
+query = st.text_area("Ask a question about the document", on_change=None)
 with st.expander("Advanced Options"):
     show_all_chunks = st.checkbox("Show all chunks retrieved from vector search", value=True)
     show_full_doc = st.checkbox("Show parsed contents of the document")
