@@ -14,7 +14,6 @@ from knowledge_gpt.utils import (
     wrap_text_in_html,
 )
 
-
 def clear_submit():
     st.session_state["submit"] = False
 
@@ -23,7 +22,7 @@ st.header("VEX GPT")
 
 sidebar()
 
-uploaded_file = open("data/Harter_McKenna_elml_2022_2_20_58006.pdf", "rb")
+uploaded_file = open("data/final-text-dataset.txt", "rb")
 
 # st.file_uploader(
 #     "Upload a pdf, docx, or txt file",
@@ -55,7 +54,7 @@ if uploaded_file is not None:
 
 query = st.text_area("Ask a question about the document", on_change=clear_submit)
 with st.expander("Advanced Options"):
-    show_all_chunks = st.checkbox("Show all chunks retrieved from vector search")
+    show_all_chunks = st.checkbox("Show all chunks retrieved from vector search", value=True)
     show_full_doc = st.checkbox("Show parsed contents of the document")
 
 if show_full_doc and doc:
@@ -82,11 +81,9 @@ if button or st.session_state.get("submit"):
             answer = get_answer(sources, query)
             if not show_all_chunks:
                 # Get the sources for the answer
-                st.cache_data()
                 sources = get_sources(answer, sources)
 
             with answer_col:
-                st.cache_data()
                 st.markdown("#### Answer")
                 st.markdown(answer["output_text"].split("SOURCES: ")[0])
 

@@ -1,0 +1,148 @@
+INCORPORATING VEX IQ INTO YOUR CURRICULUM
+
+In this article
+
+ 1. What are STEM Labs?
+    1. Classroom Competitions
+    2. SPARK STEM Labs
+ 2. What are Activities?
+ 3. Where Do I Start?
+ 4. Choosing Resources Effectively
+    1. Cumulative Pacing Guide
+    2. Content Standards
+    3. Build Video (2nd generation)
+    4. VEX Library
+    5. VEX Camps
+ 5. Suggested Planning Strategies
+
+This article is not viewable in your language. Please check back at a future date.
+This article's translation was completed by machine translation. Please forgive any possible errors.
+
+
+VEX IQ offers a wealth of resources and curricular support to enable you to infuse science, technology, engineering, and math (STEM) concepts into your learning space easily, creatively, and confidently using technology and engineering. VEX IQ educational offerings afford several levels of facilitation and scaffolding. They can be implemented individually or in combination to best match your teaching style and the needs and interests of your students.
+
+
+WHAT ARE STEM LABS?
+
+STEM Labs are lessons that can be incorporated into your existing curriculum, utilizing multiple STEM Labs to create unique, extended learning experiences. STEM Labs promote collaboration and exploratory learning. VEX IQ STEM Labs have two formats: Classroom competitions and SPARK.
+
+classroom-iq-2.png [/hc/article_attachments/5915720396308/classroom-iq-2.png]
+
+
+CLASSROOM COMPETITIONS
+
+Classroom competitions are a great way to promote the exchange of ideas through shared learning, and bolster the connection of a student's experiences to the world around them. VEX IQ (2nd generation) STEM Lab Units are centered around classroom competitions, leveraging the motivation and excitement of a competition to support students' STEM learning. These Units are all designed around the Learn - Practice - Compete format to be used with VEX IQ (2nd generation) Kits.
+
+Screen_Shot_2022-04-28_at_5.31.18_PM.png [/hc/article_attachments/5916606361620/Screen_Shot_2022-04-28_at_5.31.18_PM.png]
+
+In the Learn section, students can watch direct instruction videos from VEX Experts about engineering and coding concepts.
+
+Screen_Shot_2022-04-28_at_5.32.17_PM.png [/hc/article_attachments/5916646491284/Screen_Shot_2022-04-28_at_5.32.17_PM.png]
+
+In the Practice section, students will apply the knowledge from the Learn videos in a practice activity. These activities are designed to help students incrementally build their skills before they get to the final classroom competition.
+
+Screen_Shot_2022-04-28_at_5.33.38_PM.png [/hc/article_attachments/5916666917652/Screen_Shot_2022-04-28_at_5.33.38_PM.png]
+
+After practicing their coding, engineering, or strategy skills, students will move into the Compete section. Here they will participate in a full classroom competition. These competitions offer authentic applications; giving the students a way for them to understand the changing world around them through computational thinking and engineering constructs. For more information about implementing a VEX IQ (2nd generation) STEM Lab Unit in your classroom, see this article. [https://kb.vex.com/hc/en-us/articles/4409682120724-Implementing-STEM-Lab-Units-with-VEX-IQ-2nd-gen-]
+
+Through competition participation, students are encouraged to iterate and experiment with their code, to try new things, and to actively learn from others. The goal is not simply accomplishing the task, but creating a solution that works better, faster, or more efficiently than other possible solutions.
+
+Students can compete against each other in pairs, groups or the entire class. No matter how you want to implement your classroom competition, there is support for Facilitating an IQ STEM Lab Competition [https://kb.vex.com/hc/en-us/articles/4404983247636-Facilitating-an-IQ-STEM-Lab-Competition] that you can follow. Each IQ Education Bundle contains everything you need, including configurable game fields and game objects. These fields assemble quickly in a variety of shapes and sizes, perfect for any classroom layout.
+
+
+SPARK STEM LABS
+
+SPARK STEM Labs challenge students through another set process. These STEM Labs are written for use with VEX IQ (1st generation) Kits. SPARK STEM Labs follow a sequence of learning experiences. The learner is asked to do the following:
+
+ * Create a build or an artifact.
+ * Explore the build or the artifact and speculate as to its possible application in the real world.
+ * Learn by doing.
+ * Make changes to a design or a build to improve and enhance it.
+ * Assess knowledge.
+
+In the Seek section, students build their robot by following a set of build instructions. Then students move into the Play sections where they follow guided instruction to explore the new skill or concept introduced. In Apply, students will read about the real world and competition connections to the concepts they are learning about. In Rethink, students are given a challenge. They will need to apply their knowledge from Play and work collaboratively with their groups to solve the challenge. Finally in Know, students can check their understanding with questions.
+
+
+WHAT ARE ACTIVITIES?
+
+Activity.png [/hc/article_attachments/5836232692628/Activity.png]
+
+VEX IQ Activities [https://education.vex.com/stemlabs/iq/activities?lng=en] have been created for use with VEX IQ (2nd generation) Kits to support meaningful learning experiences for your robotic curriculum. They can easily be adapted for use with VEX IQ (1st generation) Kits. Activities are simple one page student engagements that can be completed independently as a quick lesson, learning center or as a supplement to the VEX IQ STEM Labs. Each activity focuses on a skill related to either building or coding and is enhanced with extended challenges and pro tips.
+
+----------------------------------------
+
+
+WHERE DO I START?
+
+If you are just introducing robotics to your students for the first time, it is easy to get your program up and running.  
+
+image7.png [/hc/article_attachments/5915890195860/image7.png]
+
+First, review the Get Started page for IQ [https://www.vexrobotics.com/iq/support/iq-guide]. This includes a lot of great information on the product itself, as well as educator resources, curriculum information, current research on VEX, standards alignment, information education support, and more.
+
+image9.png [/hc/article_attachments/5915881193236/image9.png]
+
+Next, review the Get Started section of the VEX Library [https://kb.vex.com/hc/en-us/categories/360002324792-IQ?sc=get-started]. This includes great information especially in the first couple articles about reviewing your Kit or Bundle, how to get started by charging batteries and downloading software, as well as where to find information about how to get started building, driving, coding, and teaching VEX IQ.
+
+----------------------------------------
+
+
+CHOOSING RESOURCES EFFECTIVELY
+
+VEX IQ Platform is designed to offer a wealth of teacher resources [https://education.vex.com/stemlabs/iq/viqc-virtual-skills/teachers-portal?lng=en] and curricular support to enable you to infuse coding, 21st century skills, and STEM concepts into your learning space easily, confidently, and creatively. STEM Labs and Activities offer a variety of skill levels and real world connections.
+
+In addition to a well designed, easy to implement educational program, VEX also offers educational resources at education.vex.com [https://education.vex.com/] that bolsters a smooth learning experience for both teachers and students.
+
+
+CUMULATIVE PACING GUIDE
+
+Pacing_Guide.png [/hc/article_attachments/5836607837204/Pacing_Guide.png]
+
+The Cumulative Pacing Guide for the VEX IQ [https://docs.google.com/spreadsheets/d/1QmNfN8X9Trpr8UhcZAGPa-akSaPDrFxsoluerQ0AMQk/edit#gid=277290212] platform shows potential sequences and connections between STEM Lab Units and various subject areas. 
+
+
+CONTENT STANDARDS
+
+Content_Standards.png [/hc/article_attachments/5836886606868/Content_Standards.png]
+
+The Content Standards [https://kb.vex.com/hc/en-us/articles/360046896951-Content-Standards-Standards-for-VEX-IQ] and Where and How the Standards are Reached [https://kb.vex.com/hc/en-us/articles/360046447512-Where-and-How-the-Standards-are-Reached-Standards-for-VEX-IQ] documents demonstrate how various activities align with each STEM Lab Unit. These standards include NGSS, CSTA, and ISTE, as well as state standards such as Common Core and TEKS to name a few.
+
+
+BUILD VIDEO (2ND GENERATION)
+
+image7.png [/hc/article_attachments/5916236967444/image7.png]
+
+In the Teacher Portal for each 2nd generation STEM Lab is the Building Your First Robot video. This video walks through how to build the BaseBot step by step following the build instructions [http://link.vex.com/iq/builds/basebot/iq-2nd-gen-basebot]. Here is the Teacher Portal from the Tug of War STEM Lab [https://education.vex.com/stemlabs/iq/tug-of-war/teachers-portal?lng=en].
+
+
+VEX LIBRARY
+
+Vex_Library.png [/hc/article_attachments/5837641209108/Vex_Library.png]
+
+The VEX Library [https://kb.vex.com/hc/en-us/categories/360002324792-IQ] is a library of information about all things VEX. The purpose of the VEX Library is to help VEX users quickly find information about VEX products, services, or topics. The VEX Library offers self-service support content around multiple topics and themes.
+
+
+VEX CAMPS
+
+Camp.png [/hc/article_attachments/5836302084628/Camp.png]
+
+STEM Labs and Activities do not need to be limited to a traditional classroom setting. VEX Camps [https://camps.vex.com/] can be offered all year around, from summer enrichment or fall fundraisers to winter break offerings or spring family fun days. This option is great if you want to provide students or community members with an extra way to get involved with engineering and coding in a fun and engaging way.
+
+----------------------------------------
+
+
+SUGGESTED PLANNING STRATEGIES
+
+The VEX IQ platform can be well executed in a variety of ways, thus making it a valuable tool in a variety of learning environments. These highly engaging STEM materials give it a significant role in the success of a school and its students and teachers.
+
+Consider the following as you plan to implement VEX IQ in your educational space:
+
+ * What is your time frame and/or setting? STEM Labs can give you ideas for how to guide students through creating a project or experimenting with a build. Activities can give you ideas for more independent student explorations or challenges. Are there any space constraints that you have that might affect your activities?
+   * Use the VEX IQ Pacing Guide [https://docs.google.com/spreadsheets/d/1QmNfN8X9Trpr8UhcZAGPa-akSaPDrFxsoluerQ0AMQk/edit#gid=277290212] to help you plan your curriculum like in the examples below: 
+     * If you are teaching a one semester beginner VEX IQ class, you may want to start with the Beginner IQ STEM Labs and corresponding VEX IQ Activities.
+     * If you are teaching a one semester advanced Robotics class, you may want to do a quick refresh of skills by completing a few Activities, and then move into more intermediate/advanced STEM Labs such as Castle Crasher or Clawbot with Controller.
+     * What balance of direct instruction and open-ended or hands-on exploration do you wish to have? Will you give students an Activity to follow on their own, or will you guide them through the experience as a whole group?
+ * How will students be introduced to the concept or project? Will you use the setup of a STEM Lab to help you engage students, or will they watch a tutorial video to begin class? What prior experience can you draw on to help your students make a personal connection to the lesson content?
+ * How will you wrap up class? Will there be a closing ceremony for the end of the classroom competition? How will students express their voice and choice to share their learning?
+
+
