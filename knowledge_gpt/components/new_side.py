@@ -1,7 +1,6 @@
 # flake8: noqa
 import streamlit as st
 import pandas as pd
-import os
 
 data_df = pd.DataFrame(
     {

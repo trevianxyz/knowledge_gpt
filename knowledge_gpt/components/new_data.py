@@ -1,10 +1,18 @@
 # import streamlit as st
+# from st_files_connection import FilesConnection
 
-# @st.cache_data  # 👈 Add the caching decorator
-# def load_data(filepath):
-#     df = pd.read(filepath)
-#     return df
+# "# Minimal FilesConnection example"
+# with st.echo():
+#     conn = st.experimental_connection('my_connection', type=FilesConnection)
 
-# df = load_data("data/final-text-dataset.txt")
+# # Write a file to local directory if it doesn't exist
+# test_file = "test.txt"
+# try:
+#     _ = conn.read(test_file, input_format='text')
+# except FileNotFoundError:
+#     with conn.open(test_file, "wt") as f:
+#         f.write("Hello, world!")
 
-# st.dataframe(df)
+# with st.echo():
+#     # Read back the contents of the file
+#     st.write(conn.read(test_file, input_format='text'))
